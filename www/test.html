@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <!--<div class="app">-->
+            <!--<h1>Apache Cordova</h1>-->
+            <!--<div id="deviceready" class="blink">-->
+
+                <!--<p class="event listening">Connecting to Device</p>-->
+                <!--<p class="event received">Device is Ready</p>-->
+            <!--</div>-->
+        <!--</div>-->
+
+        <div id="the-basics" class="app">
+            <input class="typeahead" type="text" placeholder="States of USA">
+        </div>
+
+        <script type="text/javascript" src="jquery-2.1.1.min.js"></script>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="phonegap.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+        <script type="text/javascript" src="js/bloodhound.js"></script>
+        <script type="text/javascript" src="js/bloodhound.min.js"></script>
+        <script type="text/javascript" src="js/typeahead.bundle.js"></script>
+        <script type="text/javascript" src="js/typeahead.bundle.min.js"></script>
+        <script type="text/javascript" src="js/typeahead.jquery.js"></script>
+        <script type="text/javascript" src="js/typeahead.jquery.min.js"></script>
+
+        
+        <script>
+
+
+
+        </script>
+
+
+        <!--<form method="post" action="http://" style="display:block;float:left;">-->
+            <!--<select class="select-days" name="limit_record_my">-->
+                <!--<option value="20" <?php if (isset($_REQUEST["limit_record_my"])){-->
+                    <!--if ($_REQUEST["limit_record_my"] == "20") { ?>selected <?php }-->
+                    <!--} ?> >20-->
+                <!--</option>-->
+                <!--<option value="50" <?php if (isset($_REQUEST["limit_record_my"])){-->
+                    <!--if ($_REQUEST["limit_record_my"] == "50") { ?>selected <?php }-->
+                    <!--} ?> >50-->
+                <!--</option>-->
+                <!--<option value="100" <?php if (isset($_REQUEST["limit_record_my"])){-->
+                    <!--if ($_REQUEST["limit_record_my"] == "500") { ?>selected <?php }-->
+                    <!--} ?> >100-->
+                <!--</option>-->
+            <!--</select>-->
+            <!--<input type="submit" value="show" name="show_my" style="margin-left:0px;margin-right:10px;"/>-->
+        <!--</form>-->
+
+
+        <!--<script type="text/javascript" src="cordova.js"></script>-->
+
+        <script type="text/javascript">
+            var substringMatcher = function(strs) {
+                return function findMatches(q, cb) {
+                    var matches, substrRegex;
+
+                    // an array that will be populated with substring matches
+                    matches = [];
+
+                    // regex used to determine if a string contains the substring `q`
+                    substrRegex = new RegExp(q, 'i');
+
+                    // iterate through the pool of strings and for any string that
+                    // contains the substring `q`, add it to the `matches` array
+                    $.each(strs, function(i, str) {
+                        if (substrRegex.test(str)) {
+                            // the typeahead jQuery plugin expects suggestions to a
+                            // JavaScript object, refer to typeahead docs for more info
+                            matches.push({ value: str });
+                        }
+                    });
+
+                    cb(matches);
+                };
+            };
+
+            var states = ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California',
+                'Colorado', 'Connecticut', 'Delaware', 'Florida', 'Georgia', 'Hawaii',
+                'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana',
+                'Maine', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota',
+                'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'Nevada', 'New Hampshire',
+                'New Jersey', 'New Mexico', 'New York', 'North Carolina', 'North Dakota',
+                'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Rhode Island',
+                'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont',
+                'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming'
+            ];
+
+            $('#the-basics .typeahead').typeahead({
+                        hint: true,
+                        highlight: true,
+                        minLength: 1
+                    },
+                    {
+                        name: 'states',
+                        displayKey: 'value',
+                        source: substringMatcher(states)
+                    });
+        </script>
+
+
+
+
+
+
+        <p id="my_name" style="position:center; margin-top: 50px">Login</p></br>
+    </body>
+</html>

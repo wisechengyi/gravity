@@ -1,0 +1,1905 @@
+2014-08-26 21:23:12.565 HelloWorld[12636:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 21:23:12.575 HelloWorld[12636:70b] Unlimited access to network resources
+2014-08-26 21:23:12.577 HelloWorld[12636:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 21:23:12.699 HelloWorld[12636:70b] Resetting plugins due to page load.
+2014-08-26 21:23:12.750 HelloWorld[12636:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 21:24:29.628 HelloWorld[13148:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 21:24:29.635 HelloWorld[13148:70b] Unlimited access to network resources
+2014-08-26 21:24:29.637 HelloWorld[13148:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 21:24:29.682 HelloWorld[13148:70b] Resetting plugins due to page load.
+2014-08-26 21:24:29.722 HelloWorld[13148:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 21:24:47.606 HelloWorld[13342:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 21:24:47.614 HelloWorld[13342:70b] Unlimited access to network resources
+2014-08-26 21:24:47.617 HelloWorld[13342:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 21:24:47.764 HelloWorld[13342:70b] Resetting plugins due to page load.
+2014-08-26 21:24:47.828 HelloWorld[13342:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 21:24:49.172 HelloWorld[13342:70b] Resetting plugins due to page load.
+2014-08-26 21:24:54.586 HelloWorld[13342:70b] Finished load of: http://54.187.220.65/hello.html
+2014-08-26 21:24:57.054 HelloWorld[13342:70b] Resetting plugins due to page load.
+2014-08-26 21:24:57.963 HelloWorld[13342:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-08-26 21:24:57.963 HelloWorld[13342:70b] Resetting plugins due to page load.
+2014-08-26 21:24:58.375 HelloWorld[13342:70b] Finished load of: https://m.facebook.com/login.php?skip_api_login=1&api_key=254648054659419&signed_next=1&next=https%3A%2F%2Fm.facebook.com%2Fv2.1%2Fdialog%2Foauth%3Fredirect_uri%3Dhttps%253A%252F%252Fwww.facebook.com%252Fdialog%252Freturn%252Farbiter%253Frelation%253Dopener%2526close%253Dtrue%2523origin%253Dhttp%25253A%25252F%25252F54.187.220.65%25252Ff1d47ae29%26display%3Dtouch%26state%3Dfb86580a4%26scope%3Dpublic_profile%252Cemail%26response_type%3Dnone%26default_audience%26auth_type%26ref%3DLoginButton%26client_id%3D254648054659419%26seen_revocable_perms_nux%3Dfalse%26ret%3Dlogin&cancel_uri=https%3A%2F%2Fwww.facebook.com%2Fdialog%2Freturn%2Farbiter%3Frelation%3Dopener%26close%3Dtrue%26protocol%3Dhttps%26response%3D%257B%2522error%2522%253A%2522access_denied%2522%252C%2522error_code%2522%253A200%252C%2522error_description%2522%253A%2522Permissions%2Berror%2522%252C%2522error_reason%2522%253A%2522user_denied%2522%252C%2522state%2522%253A%2522fb86580a4%2522%257D%23origin%3Dhttp%253A%252F%252F54.187.220.65%252Ff1d47ae29&display=touch&ref=LoginButton&_rdr
+2014-08-26 21:25:05.541 HelloWorld[13342:70b] Resetting plugins due to page load.
+2014-08-26 21:25:06.845 HelloWorld[13342:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-08-26 21:25:55.578 HelloWorld[13854:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 21:25:55.585 HelloWorld[13854:70b] Unlimited access to network resources
+2014-08-26 21:25:55.588 HelloWorld[13854:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 21:25:55.705 HelloWorld[13854:70b] Resetting plugins due to page load.
+2014-08-26 21:25:55.751 HelloWorld[13854:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 21:25:57.171 HelloWorld[13854:70b] Resetting plugins due to page load.
+2014-08-26 21:26:02.746 HelloWorld[13854:70b] Finished load of: http://54.187.220.65/hello.html
+2014-08-26 21:26:08.920 HelloWorld[13854:70b] Resetting plugins due to page load.
+2014-08-26 21:26:09.365 HelloWorld[13854:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-08-26 21:29:56.156 HelloWorld[16930:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 21:29:56.162 HelloWorld[16930:70b] Unlimited access to network resources
+2014-08-26 21:29:56.164 HelloWorld[16930:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 21:29:56.282 HelloWorld[16930:70b] Resetting plugins due to page load.
+2014-08-26 21:29:56.344 HelloWorld[16930:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 21:29:58.209 HelloWorld[16930:70b] Resetting plugins due to page load.
+2014-08-26 21:29:58.217 HelloWorld[16930:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/hello.html
+2014-08-26 21:36:22.194 HelloWorld[19346:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 21:36:22.202 HelloWorld[19346:70b] Unlimited access to network resources
+2014-08-26 21:36:22.204 HelloWorld[19346:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 21:36:22.313 HelloWorld[19346:70b] Resetting plugins due to page load.
+2014-08-26 21:36:22.367 HelloWorld[19346:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 21:36:24.051 HelloWorld[19346:70b] Resetting plugins due to page load.
+2014-08-26 21:36:24.057 HelloWorld[19346:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/hello.html
+2014-08-26 21:40:09.308 HelloWorld[21201:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 21:40:09.314 HelloWorld[21201:70b] Unlimited access to network resources
+2014-08-26 21:40:09.316 HelloWorld[21201:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 21:40:09.432 HelloWorld[21201:70b] Resetting plugins due to page load.
+2014-08-26 21:40:09.478 HelloWorld[21201:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 21:40:23.497 HelloWorld[21201:70b] Resetting plugins due to page load.
+2014-08-26 21:40:23.507 HelloWorld[21201:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/hello.html
+2014-08-26 22:15:20.723 HelloWorld[35804:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:15:20.734 HelloWorld[35804:70b] Unlimited access to network resources
+2014-08-26 22:15:20.738 HelloWorld[35804:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:15:20.868 HelloWorld[35804:70b] Resetting plugins due to page load.
+2014-08-26 22:15:20.916 HelloWorld[35804:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:15:20.947 HelloWorld[35804:70b] Received Event: deviceready
+2014-08-26 22:20:00.734 HelloWorld[37478:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:20:00.740 HelloWorld[37478:70b] Unlimited access to network resources
+2014-08-26 22:20:00.742 HelloWorld[37478:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:20:00.860 HelloWorld[37478:70b] Resetting plugins due to page load.
+2014-08-26 22:20:00.943 HelloWorld[37478:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/example/index.html
+2014-08-26 22:23:22.659 HelloWorld[38593:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:23:22.668 HelloWorld[38593:70b] Unlimited access to network resources
+2014-08-26 22:23:22.671 HelloWorld[38593:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:23:22.787 HelloWorld[38593:70b] Resetting plugins due to page load.
+2014-08-26 22:23:22.846 HelloWorld[38593:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:23:22.875 HelloWorld[38593:70b] Received Event: deviceready
+2014-08-26 22:26:13.964 HelloWorld[39627:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:26:13.970 HelloWorld[39627:70b] Unlimited access to network resources
+2014-08-26 22:26:13.972 HelloWorld[39627:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:26:14.017 HelloWorld[39627:70b] Resetting plugins due to page load.
+2014-08-26 22:26:14.066 HelloWorld[39627:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:26:14.125 HelloWorld[39627:70b] THREAD WARNING: ['InAppBrowser'] took '40.792969' ms. Plugin should use a background thread.
+2014-08-26 22:26:14.136 HelloWorld[39627:70b] Received Event: deviceready
+2014-08-26 22:26:20.054 HelloWorld[39627:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-08-26 22:27:06.365 HelloWorld[40091:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:27:06.374 HelloWorld[40091:70b] Unlimited access to network resources
+2014-08-26 22:27:06.376 HelloWorld[40091:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:27:06.448 HelloWorld[40091:70b] Resetting plugins due to page load.
+2014-08-26 22:27:06.521 HelloWorld[40091:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:27:06.585 HelloWorld[40091:70b] THREAD WARNING: ['InAppBrowser'] took '27.739014' ms. Plugin should use a background thread.
+2014-08-26 22:27:06.598 HelloWorld[40091:70b] Received Event: deviceready
+2014-08-26 22:27:17.543 HelloWorld[40091:70b] {"access_token":"CAAGrqWqa7VQBAEulMW9ZAePZAmAtI6cuvFqvlAPG0eJL2F6ssazPyU2kpCvnfXvMZAhXXZAZAuZBPQPkEZARqlXxIagTTvMupcJgRrrfzvr4v3bhbgWsodBPWGPtRZCjLEKP62lAUCTuwtVzysaJ7HVqNqAJATxO0ZC63lKlZBQ4xL2YSwl13QNY7qT6LDxQGiqi4ZBRxBancAIZA6OGqHQHWxZBQ","expires_in":5181233}
+2014-08-26 22:27:17.554 HelloWorld[40091:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-08-26 22:29:27.750 HelloWorld[40940:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:29:27.759 HelloWorld[40940:70b] Unlimited access to network resources
+2014-08-26 22:29:27.761 HelloWorld[40940:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:29:27.879 HelloWorld[40940:70b] Resetting plugins due to page load.
+2014-08-26 22:29:27.953 HelloWorld[40940:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:29:28.007 HelloWorld[40940:70b] THREAD WARNING: ['InAppBrowser'] took '22.986816' ms. Plugin should use a background thread.
+2014-08-26 22:29:28.019 HelloWorld[40940:70b] Received Event: deviceready
+2014-08-26 22:29:33.484 HelloWorld[40940:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-08-26 22:29:43.374 HelloWorld[40940:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-08-26 22:29:43.860 HelloWorld[40940:70b] my name is: Yi D Cheng
+2014-08-26 22:31:04.360 HelloWorld[41862:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:31:04.368 HelloWorld[41862:70b] Unlimited access to network resources
+2014-08-26 22:31:04.370 HelloWorld[41862:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:31:04.507 HelloWorld[41862:70b] Resetting plugins due to page load.
+2014-08-26 22:31:04.583 HelloWorld[41862:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:31:04.649 HelloWorld[41862:70b] THREAD WARNING: ['InAppBrowser'] took '29.959229' ms. Plugin should use a background thread.
+2014-08-26 22:31:04.667 HelloWorld[41862:70b] Received Event: deviceready
+2014-08-26 22:31:14.920 HelloWorld[41862:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-08-26 22:31:15.506 HelloWorld[41862:70b] my name is: Yi D Cheng
+2014-08-26 22:32:18.306 HelloWorld[42414:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:32:18.315 HelloWorld[42414:70b] Unlimited access to network resources
+2014-08-26 22:32:18.318 HelloWorld[42414:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:32:18.439 HelloWorld[42414:70b] Resetting plugins due to page load.
+2014-08-26 22:32:18.504 HelloWorld[42414:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:32:18.536 HelloWorld[42414:70b] Received Event: deviceready
+2014-08-26 22:32:19.301 HelloWorld[42414:70b] my name is: Yi D Cheng
+2014-08-26 22:33:14.100 HelloWorld[42781:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:33:14.107 HelloWorld[42781:70b] Unlimited access to network resources
+2014-08-26 22:33:14.110 HelloWorld[42781:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:33:14.231 HelloWorld[42781:70b] Resetting plugins due to page load.
+2014-08-26 22:33:14.301 HelloWorld[42781:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:33:14.335 HelloWorld[42781:70b] Received Event: deviceready
+2014-08-26 22:33:15.361 HelloWorld[42781:70b] my name is: Yi D Cheng
+2014-08-26 22:33:54.913 HelloWorld[43170:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:33:54.921 HelloWorld[43170:70b] Unlimited access to network resources
+2014-08-26 22:33:54.924 HelloWorld[43170:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:33:55.077 HelloWorld[43170:70b] Resetting plugins due to page load.
+2014-08-26 22:33:55.146 HelloWorld[43170:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:33:55.181 HelloWorld[43170:70b] Received Event: deviceready
+2014-08-26 22:33:55.993 HelloWorld[43170:70b] my name is: Yi D Cheng
+2014-08-26 22:35:09.262 HelloWorld[43633:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:35:09.268 HelloWorld[43633:70b] Unlimited access to network resources
+2014-08-26 22:35:09.271 HelloWorld[43633:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:35:09.411 HelloWorld[43633:70b] Resetting plugins due to page load.
+2014-08-26 22:35:09.492 HelloWorld[43633:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:35:09.529 HelloWorld[43633:70b] Received Event: deviceready
+2014-08-26 22:35:10.292 HelloWorld[43633:70b] my name is: Yi D Cheng
+2014-08-26 22:35:58.218 HelloWorld[44064:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:35:58.227 HelloWorld[44064:70b] Unlimited access to network resources
+2014-08-26 22:35:58.229 HelloWorld[44064:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:35:58.353 HelloWorld[44064:70b] Resetting plugins due to page load.
+2014-08-26 22:35:58.424 HelloWorld[44064:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:35:58.458 HelloWorld[44064:70b] Received Event: deviceready
+2014-08-26 22:35:59.359 HelloWorld[44064:70b] my name is: Yi D Cheng
+2014-08-26 22:40:44.393 HelloWorld[45664:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:40:44.401 HelloWorld[45664:70b] Unlimited access to network resources
+2014-08-26 22:40:44.404 HelloWorld[45664:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:40:44.529 HelloWorld[45664:70b] Resetting plugins due to page load.
+2014-08-26 22:40:44.602 HelloWorld[45664:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:40:44.641 HelloWorld[45664:70b] Received Event: deviceready
+2014-08-26 22:42:20.725 HelloWorld[46332:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:42:20.731 HelloWorld[46332:70b] Unlimited access to network resources
+2014-08-26 22:42:20.733 HelloWorld[46332:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:42:20.851 HelloWorld[46332:70b] Resetting plugins due to page load.
+2014-08-26 22:42:20.918 HelloWorld[46332:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:43:22.816 HelloWorld[46727:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:43:22.823 HelloWorld[46727:70b] Unlimited access to network resources
+2014-08-26 22:43:22.826 HelloWorld[46727:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:43:22.948 HelloWorld[46727:70b] Resetting plugins due to page load.
+2014-08-26 22:43:23.017 HelloWorld[46727:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:44:10.579 HelloWorld[47164:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:44:10.585 HelloWorld[47164:70b] Unlimited access to network resources
+2014-08-26 22:44:10.588 HelloWorld[47164:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:44:10.707 HelloWorld[47164:70b] Resetting plugins due to page load.
+2014-08-26 22:44:10.790 HelloWorld[47164:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:44:10.852 HelloWorld[47164:70b] THREAD WARNING: ['InAppBrowser'] took '26.803223' ms. Plugin should use a background thread.
+2014-08-26 22:44:21.470 HelloWorld[47164:70b] webView:didFailLoadWithError - 101: The URL can’t be shown
+2014-08-26 22:45:53.048 HelloWorld[47833:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:45:53.056 HelloWorld[47833:70b] Unlimited access to network resources
+2014-08-26 22:45:53.059 HelloWorld[47833:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:45:53.179 HelloWorld[47833:70b] Resetting plugins due to page load.
+2014-08-26 22:45:53.240 HelloWorld[47833:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:45:53.296 HelloWorld[47833:70b] THREAD WARNING: ['InAppBrowser'] took '28.238037' ms. Plugin should use a background thread.
+2014-08-26 22:52:31.082 HelloWorld[50037:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:52:31.091 HelloWorld[50037:70b] Unlimited access to network resources
+2014-08-26 22:52:31.094 HelloWorld[50037:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:52:31.209 HelloWorld[50037:70b] Resetting plugins due to page load.
+2014-08-26 22:52:31.278 HelloWorld[50037:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:52:31.332 HelloWorld[50037:70b] THREAD WARNING: ['InAppBrowser'] took '24.738037' ms. Plugin should use a background thread.
+2014-08-26 22:54:03.700 HelloWorld[50659:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:54:03.708 HelloWorld[50659:70b] Unlimited access to network resources
+2014-08-26 22:54:03.710 HelloWorld[50659:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:54:03.837 HelloWorld[50659:70b] Resetting plugins due to page load.
+2014-08-26 22:54:03.914 HelloWorld[50659:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:54:03.968 HelloWorld[50659:70b] THREAD WARNING: ['InAppBrowser'] took '24.498047' ms. Plugin should use a background thread.
+2014-08-26 22:54:22.370 HelloWorld[50659:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-08-26 22:55:14.763 HelloWorld[51103:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:55:14.769 HelloWorld[51103:70b] Unlimited access to network resources
+2014-08-26 22:55:14.771 HelloWorld[51103:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:55:14.879 HelloWorld[51103:70b] Resetting plugins due to page load.
+2014-08-26 22:55:14.948 HelloWorld[51103:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 22:59:30.945 HelloWorld[53361:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 22:59:30.955 HelloWorld[53361:70b] Unlimited access to network resources
+2014-08-26 22:59:30.958 HelloWorld[53361:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 22:59:31.078 HelloWorld[53361:70b] Resetting plugins due to page load.
+2014-08-26 22:59:31.148 HelloWorld[53361:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:00:52.911 HelloWorld[54357:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:00:52.918 HelloWorld[54357:70b] Unlimited access to network resources
+2014-08-26 23:00:52.921 HelloWorld[54357:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:00:53.046 HelloWorld[54357:70b] Resetting plugins due to page load.
+2014-08-26 23:00:53.125 HelloWorld[54357:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:01:52.523 HelloWorld[54953:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:01:52.532 HelloWorld[54953:70b] Unlimited access to network resources
+2014-08-26 23:01:52.535 HelloWorld[54953:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:01:52.647 HelloWorld[54953:70b] Resetting plugins due to page load.
+2014-08-26 23:01:52.729 HelloWorld[54953:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:05:37.834 HelloWorld[56276:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:05:37.840 HelloWorld[56276:70b] Unlimited access to network resources
+2014-08-26 23:05:37.843 HelloWorld[56276:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:05:37.972 HelloWorld[56276:70b] Resetting plugins due to page load.
+2014-08-26 23:05:38.048 HelloWorld[56276:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:06:39.563 HelloWorld[56670:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:06:39.570 HelloWorld[56670:70b] Unlimited access to network resources
+2014-08-26 23:06:39.573 HelloWorld[56670:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:06:39.693 HelloWorld[56670:70b] Resetting plugins due to page load.
+2014-08-26 23:06:39.759 HelloWorld[56670:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:08:55.327 HelloWorld[57511:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:08:55.336 HelloWorld[57511:70b] Unlimited access to network resources
+2014-08-26 23:08:55.339 HelloWorld[57511:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:08:55.435 HelloWorld[57511:70b] Resetting plugins due to page load.
+2014-08-26 23:08:55.508 HelloWorld[57511:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:09:29.151 HelloWorld[57769:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:09:29.160 HelloWorld[57769:70b] Unlimited access to network resources
+2014-08-26 23:09:29.164 HelloWorld[57769:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:09:29.309 HelloWorld[57769:70b] Resetting plugins due to page load.
+2014-08-26 23:09:29.395 HelloWorld[57769:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:10:47.727 HelloWorld[58344:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:10:47.734 HelloWorld[58344:70b] Unlimited access to network resources
+2014-08-26 23:10:47.740 HelloWorld[58344:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:10:47.863 HelloWorld[58344:70b] Resetting plugins due to page load.
+2014-08-26 23:10:47.922 HelloWorld[58344:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:11:57.099 HelloWorld[58865:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:11:57.108 HelloWorld[58865:70b] Unlimited access to network resources
+2014-08-26 23:11:57.110 HelloWorld[58865:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:11:57.214 HelloWorld[58865:70b] Resetting plugins due to page load.
+2014-08-26 23:11:57.286 HelloWorld[58865:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:11:57.321 HelloWorld[58865:70b] Received Event: deviceready
+2014-08-26 23:11:57.321 HelloWorld[58865:70b] you swiped left me!
+2014-08-26 23:11:57.321 HelloWorld[58865:70b] you swiped left me!
+2014-08-26 23:11:58.065 HelloWorld[58865:70b] my name is: Yi D Cheng
+2014-08-26 23:12:37.006 HelloWorld[59168:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:12:37.013 HelloWorld[59168:70b] Unlimited access to network resources
+2014-08-26 23:12:37.015 HelloWorld[59168:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:12:37.136 HelloWorld[59168:70b] Resetting plugins due to page load.
+2014-08-26 23:12:37.201 HelloWorld[59168:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:12:37.238 HelloWorld[59168:70b] Received Event: deviceready
+2014-08-26 23:12:37.238 HelloWorld[59168:70b] you swiped left me!
+2014-08-26 23:12:37.993 HelloWorld[59168:70b] my name is: Yi D Cheng
+2014-08-26 23:13:25.604 HelloWorld[59515:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:13:25.610 HelloWorld[59515:70b] Unlimited access to network resources
+2014-08-26 23:13:25.613 HelloWorld[59515:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:13:25.727 HelloWorld[59515:70b] Resetting plugins due to page load.
+2014-08-26 23:13:25.793 HelloWorld[59515:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:13:25.838 HelloWorld[59515:70b] Received Event: deviceready
+2014-08-26 23:13:25.838 HelloWorld[59515:70b] you swiped left me!
+2014-08-26 23:14:06.980 HelloWorld[59907:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:14:06.990 HelloWorld[59907:70b] Unlimited access to network resources
+2014-08-26 23:14:06.992 HelloWorld[59907:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:14:07.124 HelloWorld[59907:70b] Resetting plugins due to page load.
+2014-08-26 23:14:07.210 HelloWorld[59907:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:14:07.247 HelloWorld[59907:70b] Received Event: deviceready
+2014-08-26 23:14:07.247 HelloWorld[59907:70b] you swiped left me!
+2014-08-26 23:14:08.020 HelloWorld[59907:70b] my name is: Yi D Cheng
+2014-08-26 23:15:19.804 HelloWorld[60348:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:15:19.813 HelloWorld[60348:70b] Unlimited access to network resources
+2014-08-26 23:15:19.816 HelloWorld[60348:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:15:19.936 HelloWorld[60348:70b] Resetting plugins due to page load.
+2014-08-26 23:15:20.012 HelloWorld[60348:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:15:20.064 HelloWorld[60348:70b] Received Event: deviceready
+2014-08-26 23:15:20.065 HelloWorld[60348:70b] you swiped left me!
+2014-08-26 23:15:20.903 HelloWorld[60348:70b] my name is: Yi D Cheng
+2014-08-26 23:19:40.630 HelloWorld[61937:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:19:40.638 HelloWorld[61937:70b] Unlimited access to network resources
+2014-08-26 23:19:40.641 HelloWorld[61937:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:19:40.767 HelloWorld[61937:70b] Resetting plugins due to page load.
+2014-08-26 23:19:40.840 HelloWorld[61937:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:19:40.870 HelloWorld[61937:70b] Received Event: deviceready
+2014-08-26 23:20:33.249 HelloWorld[62287:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:20:33.258 HelloWorld[62287:70b] Unlimited access to network resources
+2014-08-26 23:20:33.260 HelloWorld[62287:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:20:33.395 HelloWorld[62287:70b] Resetting plugins due to page load.
+2014-08-26 23:20:33.466 HelloWorld[62287:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:20:33.500 HelloWorld[62287:70b] Received Event: deviceready
+2014-08-26 23:20:33.500 HelloWorld[62287:70b] you swiped left me!
+2014-08-26 23:20:34.261 HelloWorld[62287:70b] {"id":"10204087427601887","avatar":"https://graph.facebook.com/10204087427601887/picture","name":"Yi D Cheng","firstname":"Yi","lastname":"Cheng","email":"wisechengyi@gmail.com","gender":0,"raw":{"id":"10204087427601887","email":"wisechengyi@gmail.com","first_name":"Yi","gender":"male","last_name":"Cheng","link":"https://www.facebook.com/app_scoped_user_id/10204087427601887/","locale":"en_US","middle_name":"D","name":"Yi D Cheng","timezone":-7,"updated_time":"2014-08-05T05:39:43+0000","verified":true}}
+2014-08-26 23:20:34.262 HelloWorld[62287:70b] my name is: Yi D Cheng
+2014-08-26 23:21:32.296 HelloWorld[62767:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:21:32.304 HelloWorld[62767:70b] Unlimited access to network resources
+2014-08-26 23:21:32.306 HelloWorld[62767:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:21:32.433 HelloWorld[62767:70b] Resetting plugins due to page load.
+2014-08-26 23:21:32.505 HelloWorld[62767:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:21:32.566 HelloWorld[62767:70b] THREAD WARNING: ['InAppBrowser'] took '27.463867' ms. Plugin should use a background thread.
+2014-08-26 23:21:32.578 HelloWorld[62767:70b] Received Event: deviceready
+2014-08-26 23:21:32.580 HelloWorld[62767:70b] you swiped left me!
+2014-08-26 23:22:19.618 HelloWorld[63094:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:22:19.625 HelloWorld[63094:70b] Unlimited access to network resources
+2014-08-26 23:22:19.628 HelloWorld[63094:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:22:19.747 HelloWorld[63094:70b] Resetting plugins due to page load.
+2014-08-26 23:22:19.819 HelloWorld[63094:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:22:19.874 HelloWorld[63094:70b] THREAD WARNING: ['InAppBrowser'] took '23.546875' ms. Plugin should use a background thread.
+2014-08-26 23:22:19.887 HelloWorld[63094:70b] Received Event: deviceready
+2014-08-26 23:22:19.888 HelloWorld[63094:70b] you swiped left me!
+2014-08-26 23:22:35.648 HelloWorld[63094:70b] webView:didFailLoadWithError - 101: The URL can’t be shown
+2014-08-26 23:22:46.980 HelloWorld[63094:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-08-26 23:22:47.480 HelloWorld[63094:70b] {"id":"10204087427601887","avatar":"https://graph.facebook.com/10204087427601887/picture","name":"Yi D Cheng","firstname":"Yi","lastname":"Cheng","email":"wisechengyi@gmail.com","gender":0,"raw":{"id":"10204087427601887","email":"wisechengyi@gmail.com","first_name":"Yi","gender":"male","last_name":"Cheng","link":"https://www.facebook.com/app_scoped_user_id/10204087427601887/","locale":"en_US","middle_name":"D","name":"Yi D Cheng","timezone":-7,"updated_time":"2014-08-05T05:39:43+0000","verified":true}}
+2014-08-26 23:22:47.481 HelloWorld[63094:70b] my name is: Yi D Cheng
+2014-08-26 23:23:24.677 HelloWorld[63510:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-26 23:23:24.683 HelloWorld[63510:70b] Unlimited access to network resources
+2014-08-26 23:23:24.685 HelloWorld[63510:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-26 23:23:24.807 HelloWorld[63510:70b] Resetting plugins due to page load.
+2014-08-26 23:23:24.869 HelloWorld[63510:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-26 23:23:24.902 HelloWorld[63510:70b] Received Event: deviceready
+2014-08-26 23:23:24.903 HelloWorld[63510:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-08-26 23:23:24.903 HelloWorld[63510:70b] you swiped left me!
+2014-08-26 23:23:25.663 HelloWorld[63510:70b] my name is: Yi D Cheng
+2014-08-28 13:25:51.275 HelloWorld[84201:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 13:25:51.398 HelloWorld[84201:70b] Unlimited access to network resources
+2014-08-28 13:25:51.403 HelloWorld[84201:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-28 13:25:51.769 HelloWorld[84201:70b] Resetting plugins due to page load.
+2014-08-28 13:25:51.869 HelloWorld[84201:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-28 13:25:51.997 HelloWorld[84201:70b] Received Event: deviceready
+2014-08-28 13:25:51.998 HelloWorld[84201:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-08-28 13:25:51.998 HelloWorld[84201:70b] you swiped left me!
+2014-08-28 13:25:52.871 HelloWorld[84201:70b] my name is: Yi D Cheng
+2014-08-28 14:43:32.514 HelloWorld[11274:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 14:43:32.551 HelloWorld[11274:70b] Unlimited access to network resources
+2014-08-28 14:43:32.554 HelloWorld[11274:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-28 14:43:32.897 HelloWorld[11274:70b] Resetting plugins due to page load.
+2014-08-28 14:43:33.006 HelloWorld[11274:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-28 14:43:33.059 HelloWorld[11274:70b] Received Event: deviceready
+2014-08-28 14:43:33.059 HelloWorld[11274:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-08-28 14:43:33.059 HelloWorld[11274:70b] you swiped left me!
+Terminating in response to SpringBoard's termination.
+2014-08-28 15:02:27.592 HelloWorld[17377:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 15:02:27.601 HelloWorld[17377:70b] Unlimited access to network resources
+2014-08-28 15:02:27.604 HelloWorld[17377:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-28 15:02:27.739 HelloWorld[17377:70b] Resetting plugins due to page load.
+2014-08-28 15:02:27.804 HelloWorld[17377:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-28 15:02:27.865 HelloWorld[17377:70b] Received Event: deviceready
+2014-08-28 15:02:27.865 HelloWorld[17377:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-08-28 15:02:27.866 HelloWorld[17377:70b] you swiped left me!
+2014-08-28 15:02:28.501 HelloWorld[17377:70b] my name is: Yi D Cheng
+2014-08-28 15:05:39.723 HelloWorld[18539:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-28 15:05:39.730 HelloWorld[18539:70b] Unlimited access to network resources
+2014-08-28 15:05:39.732 HelloWorld[18539:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-28 15:05:39.866 HelloWorld[18539:70b] Resetting plugins due to page load.
+2014-08-28 15:05:39.946 HelloWorld[18539:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-08-28 15:05:40.063 HelloWorld[18539:70b] THREAD WARNING: ['InAppBrowser'] took '70.161133' ms. Plugin should use a background thread.
+2014-08-28 15:05:40.077 HelloWorld[18539:70b] Received Event: deviceready
+2014-08-28 15:05:40.081 HelloWorld[18539:70b] you swiped left me!
+2014-08-28 15:08:18.606 HelloWorld[18539:70b] {"access_token":"CAADnmd7XOVsBAI12MuzrxWNHTQUql6w1J96Nru3d7prA5bykFbrYEhFF2s6KT8obLQE4smWoe8DsH3ZBnK5BBDCiBMhq2ZCI2ydiCDu5fCdHfUdYFFHkUlO1FBA1yq1JXBBJxezbUVM4sz6qDyZBZCCt57K9Ygei9dyO9gM60T1FbgjxJjtsf1lKWC212jkJ49NnpWwZCnGHvN7QOP4kf","expires_in":5184000}
+2014-08-28 15:08:18.612 HelloWorld[18539:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-08-28 15:08:19.382 HelloWorld[18539:70b] my name is: Patricia Amfadbbgfhdj Vijayvergiyasen
+2014-09-02 18:05:24.907 HelloWorld[47375:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:05:24.932 HelloWorld[47375:70b] Unlimited access to network resources
+2014-09-02 18:05:24.936 HelloWorld[47375:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:05:25.332 HelloWorld[47375:70b] Resetting plugins due to page load.
+2014-09-02 18:05:25.442 HelloWorld[47375:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:05:25.524 HelloWorld[47375:70b] THREAD WARNING: ['InAppBrowser'] took '48.762207' ms. Plugin should use a background thread.
+2014-09-02 18:05:25.535 HelloWorld[47375:70b] Received Event: deviceready
+2014-09-02 18:05:25.535 HelloWorld[47375:70b] you swiped left me!
+2014-09-02 18:05:26.635 HelloWorld[47375:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-02 18:05:53.083 HelloWorld[47375:70b] {"access_token":"CAADnmd7XOVsBABs0rgzZBt9ZA2mf76vSVd8GLWZCrr1R7K5GUXmAeJ6LcZC9WbIOofU6Wr3XfxwIGa8tL7tZA7hrkYYu0EVFoOTDF9kZBnNQTE02jqhZCzxjlQN3AOgGiSZAZCiaLE8lmf7nEj7kMiMp9pWbEnUg54uf6y0gz26eXmqge5cIYRos4wqfViajcZBVgN5mW0ZC5ZB5DsRgoaFqYZC34","expires_in":5184000}
+2014-09-02 18:05:53.089 HelloWorld[47375:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-02 18:05:53.468 HelloWorld[47375:70b] my name is: Yi D Cheng
+2014-09-02 18:07:14.875 HelloWorld[48175:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:07:14.884 HelloWorld[48175:70b] Unlimited access to network resources
+2014-09-02 18:07:14.887 HelloWorld[48175:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:07:15.012 HelloWorld[48175:70b] Resetting plugins due to page load.
+2014-09-02 18:07:15.086 HelloWorld[48175:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:07:15.149 HelloWorld[48175:70b] THREAD WARNING: ['InAppBrowser'] took '31.127930' ms. Plugin should use a background thread.
+2014-09-02 18:07:15.161 HelloWorld[48175:70b] Received Event: deviceready
+2014-09-02 18:07:15.162 HelloWorld[48175:70b] you swiped left me!
+2014-09-02 18:07:37.651 HelloWorld[48411:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:07:37.657 HelloWorld[48411:70b] Unlimited access to network resources
+2014-09-02 18:07:37.659 HelloWorld[48411:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:07:37.782 HelloWorld[48411:70b] Resetting plugins due to page load.
+2014-09-02 18:07:37.853 HelloWorld[48411:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:10:10.472 HelloWorld[49395:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:10:10.481 HelloWorld[49395:70b] Unlimited access to network resources
+2014-09-02 18:10:10.484 HelloWorld[49395:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:10:10.603 HelloWorld[49395:70b] Resetting plugins due to page load.
+2014-09-02 18:10:10.673 HelloWorld[49395:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:10:10.710 HelloWorld[49395:70b] Received Event: deviceready
+2014-09-02 18:10:10.710 HelloWorld[49395:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-02 18:10:10.710 HelloWorld[49395:70b] you swiped left me!
+2014-09-02 18:10:11.191 HelloWorld[49395:70b] my name is: Yi D Cheng
+2014-09-02 18:10:40.296 HelloWorld[49651:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:10:40.305 HelloWorld[49651:70b] Unlimited access to network resources
+2014-09-02 18:10:40.308 HelloWorld[49651:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:10:40.451 HelloWorld[49651:70b] Resetting plugins due to page load.
+2014-09-02 18:10:40.531 HelloWorld[49651:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:10:40.602 HelloWorld[49651:70b] Received Event: deviceready
+2014-09-02 18:10:40.602 HelloWorld[49651:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-02 18:10:40.602 HelloWorld[49651:70b] you swiped left me!
+2014-09-02 18:10:40.918 HelloWorld[49651:70b] {"data":[],"summary":{"total_count":758}}
+2014-09-02 18:10:41.055 HelloWorld[49651:70b] my name is: Yi D Cheng
+2014-09-02 18:14:38.651 HelloWorld[51036:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:14:38.660 HelloWorld[51036:70b] Unlimited access to network resources
+2014-09-02 18:14:38.663 HelloWorld[51036:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:14:38.786 HelloWorld[51036:70b] Resetting plugins due to page load.
+2014-09-02 18:14:38.854 HelloWorld[51036:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:14:38.893 HelloWorld[51036:70b] Received Event: deviceready
+2014-09-02 18:14:38.893 HelloWorld[51036:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-02 18:14:38.894 HelloWorld[51036:70b] you swiped left me!
+2014-09-02 18:14:39.065 HelloWorld[51036:70b] {"data":[],"summary":{"total_count":758}}
+2014-09-02 18:14:39.446 HelloWorld[51036:70b] my name is: Yi D Cheng
+2014-09-02 18:15:50.465 HelloWorld[51473:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:15:50.474 HelloWorld[51473:70b] Unlimited access to network resources
+2014-09-02 18:15:50.477 HelloWorld[51473:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:15:50.602 HelloWorld[51473:70b] Resetting plugins due to page load.
+2014-09-02 18:15:50.670 HelloWorld[51473:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:15:50.710 HelloWorld[51473:70b] Received Event: deviceready
+2014-09-02 18:15:50.711 HelloWorld[51473:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-02 18:15:50.711 HelloWorld[51473:70b] you swiped left me!
+2014-09-02 18:15:50.885 HelloWorld[51473:70b] {"data":[],"summary":{"total_count":758}}
+2014-09-02 18:15:51.196 HelloWorld[51473:70b] my name is: Yi D Cheng
+2014-09-02 18:16:53.735 HelloWorld[51979:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:16:53.744 HelloWorld[51979:70b] Unlimited access to network resources
+2014-09-02 18:16:53.747 HelloWorld[51979:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:16:53.872 HelloWorld[51979:70b] Resetting plugins due to page load.
+2014-09-02 18:16:53.938 HelloWorld[51979:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:16:53.977 HelloWorld[51979:70b] Received Event: deviceready
+2014-09-02 18:16:53.978 HelloWorld[51979:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-02 18:16:53.978 HelloWorld[51979:70b] you swiped left me!
+2014-09-02 18:16:54.359 HelloWorld[51979:70b] {"data":[{"name":"Cinda Heeren","id":"1944502"},{"name":"Sid Viswanathan","id":"4804178"},{"name":"Carlyn Lee","id":"6700386"},{"name":"Peter Cen","id":"28127183"},{"name":"Victoria Ko","id":"508191392"},{"name":"Chuck Yang","id":"520026765"},{"name":"Jing Zou","id":"524180668"},{"name":"Naomi Yarin","id":"547598664"},{"name":"Kevin Jasieniecki","id":"557624020"},{"name":"Aviral Jain","id":"567093898"}],"paging":{"next":"https://graph.facebook.com/v1.0/1110752121/friends?limit=10&offset=10&access_token=CAACEdEose0cBAGB94lHxby6FNxKAZBDAFZAe4gz35OZC9PSnidZCm8h3BEfLb71udwkZAcGtDYh37qWLPm0LMjWZBMzO6Og1PvJxPY9ShLAFM2KEKwnGxPCIE8bH1rbeXp0ZAEg2qzbKQWVFgBRZA6koJkwr5vjGvUZCVNUhDsfpuDY1aPRZB9SjOuIE6pfakQdo7K07bnwOO6JQsUZBhhhxWbc&__after_id=enc_AexndVGgBJKbcHdQiopT5MoJQ7OyY0eA9s2x07UVRnxDJbcBf_mHdGxuuF1_SOTCLq0"}}
+2014-09-02 18:16:54.466 HelloWorld[51979:70b] my name is: Yi D Cheng
+2014-09-02 18:21:56.949 HelloWorld[54501:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:21:56.961 HelloWorld[54501:70b] Unlimited access to network resources
+2014-09-02 18:21:56.965 HelloWorld[54501:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:21:57.098 HelloWorld[54501:70b] Resetting plugins due to page load.
+2014-09-02 18:21:57.166 HelloWorld[54501:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:21:57.217 HelloWorld[54501:70b] Received Event: deviceready
+2014-09-02 18:21:57.218 HelloWorld[54501:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-02 18:21:57.218 HelloWorld[54501:70b] you swiped left me!
+2014-09-02 18:22:21.899 HelloWorld[54824:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:22:21.905 HelloWorld[54824:70b] Unlimited access to network resources
+2014-09-02 18:22:21.908 HelloWorld[54824:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:22:22.025 HelloWorld[54824:70b] Resetting plugins due to page load.
+2014-09-02 18:22:22.090 HelloWorld[54824:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:22:22.131 HelloWorld[54824:70b] Received Event: deviceready
+2014-09-02 18:22:22.131 HelloWorld[54824:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-02 18:22:22.132 HelloWorld[54824:70b] you swiped left me!
+2014-09-02 18:22:22.316 HelloWorld[54824:70b] {"data":[],"summary":{"total_count":758}}
+2014-09-02 18:22:24.260 HelloWorld[54824:70b] my name is: Yi D Cheng
+2014-09-02 18:22:49.888 HelloWorld[55056:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:22:49.896 HelloWorld[55056:70b] Unlimited access to network resources
+2014-09-02 18:22:49.899 HelloWorld[55056:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:22:50.015 HelloWorld[55056:70b] Resetting plugins due to page load.
+2014-09-02 18:22:50.084 HelloWorld[55056:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:22:50.136 HelloWorld[55056:70b] THREAD WARNING: ['InAppBrowser'] took '21.146729' ms. Plugin should use a background thread.
+2014-09-02 18:22:50.148 HelloWorld[55056:70b] Received Event: deviceready
+2014-09-02 18:22:50.149 HelloWorld[55056:70b] you swiped left me!
+2014-09-02 18:23:12.462 HelloWorld[55056:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-09-02 18:23:12.463 HelloWorld[55056:70b] webView:didFailLoadWithError - 1: CDVWebViewDelegate: Navigation started when state=1
+2014-09-02 18:27:53.270 HelloWorld[56749:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:27:53.279 HelloWorld[56749:70b] Unlimited access to network resources
+2014-09-02 18:27:53.282 HelloWorld[56749:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:27:53.406 HelloWorld[56749:70b] Resetting plugins due to page load.
+2014-09-02 18:27:53.494 HelloWorld[56749:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:27:53.561 HelloWorld[56749:70b] THREAD WARNING: ['InAppBrowser'] took '28.254883' ms. Plugin should use a background thread.
+2014-09-02 18:27:53.574 HelloWorld[56749:70b] Received Event: deviceready
+2014-09-02 18:27:53.574 HelloWorld[56749:70b] you swiped left me!
+2014-09-02 18:28:04.085 HelloWorld[56749:70b] {"access_token":"CAADnmd7XOVsBACjMV3uPFGPOHoMoJctLIf9KOAJjbTURW8m2wYuZAS2I1btqeZCLtuVYvtvVsBZBc7x18lYobeJNIHmbRDqaGRNwR6GgjBuX8w8fU4l4tOLnBhqYBAZBFvAMWY6yHPnkkrdLNiAPfBmJqxZBK7zuEmETDuDOJTvth7zkxpbh2bb8ljZBrFQCD1jVzYsvzm1jVsoinqLNa1","expires_in":5182669}
+2014-09-02 18:28:04.096 HelloWorld[56749:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-02 18:28:04.311 HelloWorld[56749:70b] {"data":[],"summary":{"total_count":758}}
+2014-09-02 18:28:04.311 HelloWorld[56749:70b] my name is: Yi D Cheng
+2014-09-02 18:29:02.823 HelloWorld[57278:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:29:02.832 HelloWorld[57278:70b] Unlimited access to network resources
+2014-09-02 18:29:02.835 HelloWorld[57278:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:29:02.953 HelloWorld[57278:70b] Resetting plugins due to page load.
+2014-09-02 18:29:03.033 HelloWorld[57278:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:29:03.104 HelloWorld[57278:70b] THREAD WARNING: ['InAppBrowser'] took '28.111084' ms. Plugin should use a background thread.
+2014-09-02 18:29:03.116 HelloWorld[57278:70b] Received Event: deviceready
+2014-09-02 18:29:03.116 HelloWorld[57278:70b] you swiped left me!
+2014-09-02 18:29:11.615 HelloWorld[57278:70b] {"access_token":"CAADnmd7XOVsBANAqxwDTUyxQN90sr7JHeAtN7Vr4mOgNbLjgOZBd8nuDMK3HIipZAZBP0ZBkvMllTfPdIRBFrK3hYrxdDL7NIuZB2skkLOOsbUgM22AOikgSK6nhJst4jNOae0iCTY0IpI4G3yexktWcmbnqii0AVoPaDFDuVR4pkXKEtgsegrxssdp0l5Re57ERa6Q47Uujj9RlLsnbI","expires_in":5182601}
+2014-09-02 18:29:11.625 HelloWorld[57278:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-02 18:29:11.833 HelloWorld[57278:70b] {"data":[],"summary":{"total_count":758}}
+2014-09-02 18:29:11.930 HelloWorld[57278:70b] my name is: Yi D Cheng
+2014-09-02 18:30:07.483 HelloWorld[57812:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:30:07.492 HelloWorld[57812:70b] Unlimited access to network resources
+2014-09-02 18:30:07.495 HelloWorld[57812:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:30:07.615 HelloWorld[57812:70b] Resetting plugins due to page load.
+2014-09-02 18:30:07.690 HelloWorld[57812:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:30:07.741 HelloWorld[57812:70b] THREAD WARNING: ['InAppBrowser'] took '22.079102' ms. Plugin should use a background thread.
+2014-09-02 18:30:07.753 HelloWorld[57812:70b] Received Event: deviceready
+2014-09-02 18:30:07.754 HelloWorld[57812:70b] you swiped left me!
+2014-09-02 18:32:39.660 HelloWorld[58706:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:32:39.669 HelloWorld[58706:70b] Unlimited access to network resources
+2014-09-02 18:32:39.672 HelloWorld[58706:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:32:39.805 HelloWorld[58706:70b] Resetting plugins due to page load.
+2014-09-02 18:32:39.868 HelloWorld[58706:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:32:39.894 HelloWorld[58706:70b] Received Event: deviceready
+2014-09-02 18:33:04.727 HelloWorld[58936:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:33:04.736 HelloWorld[58936:70b] Unlimited access to network resources
+2014-09-02 18:33:04.739 HelloWorld[58936:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:33:04.867 HelloWorld[58936:70b] Resetting plugins due to page load.
+2014-09-02 18:33:04.930 HelloWorld[58936:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:33:04.958 HelloWorld[58936:70b] Received Event: deviceready
+2014-09-02 18:33:49.151 HelloWorld[59261:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:33:49.158 HelloWorld[59261:70b] Unlimited access to network resources
+2014-09-02 18:33:49.161 HelloWorld[59261:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:33:49.275 HelloWorld[59261:70b] Resetting plugins due to page load.
+2014-09-02 18:33:49.337 HelloWorld[59261:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:33:49.369 HelloWorld[59261:70b] Received Event: deviceready
+2014-09-02 18:33:49.369 HelloWorld[59261:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-02 18:33:49.370 HelloWorld[59261:70b] you swiped left me!
+2014-09-02 18:33:49.966 HelloWorld[59261:70b] my name is: Yi D Cheng
+2014-09-02 18:34:56.769 HelloWorld[59789:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:34:56.778 HelloWorld[59789:70b] Unlimited access to network resources
+2014-09-02 18:34:56.781 HelloWorld[59789:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:34:56.895 HelloWorld[59789:70b] Resetting plugins due to page load.
+2014-09-02 18:34:56.968 HelloWorld[59789:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:34:57.008 HelloWorld[59789:70b] Received Event: deviceready
+2014-09-02 18:34:57.008 HelloWorld[59789:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-02 18:34:57.009 HelloWorld[59789:70b] you swiped left me!
+2014-09-02 18:34:57.797 HelloWorld[59789:70b] {"data":[],"summary":{"total_count":758}}
+2014-09-02 18:34:57.901 HelloWorld[59789:70b] my name is: Yi D Cheng
+2014-09-02 18:43:39.134 HelloWorld[62638:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 18:43:39.143 HelloWorld[62638:70b] Unlimited access to network resources
+2014-09-02 18:43:39.146 HelloWorld[62638:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 18:43:39.270 HelloWorld[62638:70b] Resetting plugins due to page load.
+2014-09-02 18:43:39.337 HelloWorld[62638:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 18:43:39.373 HelloWorld[62638:70b] Received Event: deviceready
+2014-09-02 18:43:39.373 HelloWorld[62638:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-02 18:43:39.374 HelloWorld[62638:70b] you swiped left me!
+2014-09-02 18:43:39.578 HelloWorld[62638:70b] {"data":[],"summary":{"total_count":758}}
+2014-09-02 18:43:39.883 HelloWorld[62638:70b] my name is: Yi D Cheng
+2014-09-02 21:18:42.106 HelloWorld[70296:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-02 21:18:42.113 HelloWorld[70296:70b] Unlimited access to network resources
+2014-09-02 21:18:42.116 HelloWorld[70296:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-02 21:18:42.213 HelloWorld[70296:70b] Resetting plugins due to page load.
+2014-09-02 21:18:42.298 HelloWorld[70296:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-02 21:18:42.408 HelloWorld[70296:70b] THREAD WARNING: ['InAppBrowser'] took '76.554199' ms. Plugin should use a background thread.
+2014-09-02 21:18:42.429 HelloWorld[70296:70b] Received Event: deviceready
+2014-09-02 21:18:42.430 HelloWorld[70296:70b] you swiped left me!
+2014-09-02 21:18:57.816 HelloWorld[70296:70b] {"access_token":"CAADnmd7XOVsBAJ2QZCpzmMtcDvT6F2D2xU78lZCfFZBiI3laZBZBGPUSQfF7QLHPSoYsRfvrnZCvesIxrZAeIFkf1w04UZBNf8SZCD7KiTMBW32DMlwVwjIF6iglJ6T6llwi5xoINfBz61wEZA26D4VfPOmuGtAvAxPDkqbyPpzfSrojVr5PM69cfHVCfCHkUlPZCkZD","expires_in":5172416}
+2014-09-02 21:18:57.825 HelloWorld[70296:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-02 21:18:58.120 HelloWorld[70296:70b] my name is: Yi D Cheng
+2014-09-02 21:18:58.279 HelloWorld[70296:70b] {"data":[],"summary":{"total_count":758}}
+2014-09-03 00:03:55.839 HelloWorld[1067:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-03 00:03:55.863 HelloWorld[1067:70b] Unlimited access to network resources
+2014-09-03 00:03:55.867 HelloWorld[1067:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-03 00:03:56.209 HelloWorld[1067:70b] Resetting plugins due to page load.
+2014-09-03 00:03:56.314 HelloWorld[1067:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-03 00:03:56.402 HelloWorld[1067:70b] THREAD WARNING: ['InAppBrowser'] took '48.288818' ms. Plugin should use a background thread.
+2014-09-03 00:03:56.416 HelloWorld[1067:70b] Received Event: deviceready
+2014-09-03 00:03:56.417 HelloWorld[1067:70b] you swiped left me!
+2014-09-03 00:04:12.891 HelloWorld[1067:70b] {"access_token":"CAADnmd7XOVsBAHdKU92ln5LaZC0Hf06D47UmPnjXjrvwPE1HaIGNeOTya6NWuXUlNuItksKJA7r2USHXuQUGMA5oEI10o1OxZBieveQq4MhKsn3ddq44lGZCZBnluPKuF5SKcrzz9eGRaHLn6Jpi0MI0eIaERowzoy0rkZAt5VLxZBX5OKAjxygYow3QujhkkZD","expires_in":5184000}
+2014-09-03 00:04:12.903 HelloWorld[1067:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-03 00:04:13.196 HelloWorld[1067:70b] {"data":[{"name":"Patricia Amfadbbgfhdj Vijayvergiyasen","id":"1524505514430843"}],"paging":{"next":"https://graph.facebook.com/v2.0/329894773850929/friends?limit=10&offset=10&access_token=CAADnmd7XOVsBAHdKU92ln5LaZC0Hf06D47UmPnjXjrvwPE1HaIGNeOTya6NWuXUlNuItksKJA7r2USHXuQUGMA5oEI10o1OxZBieveQq4MhKsn3ddq44lGZCZBnluPKuF5SKcrzz9eGRaHLn6Jpi0MI0eIaERowzoy0rkZAt5VLxZBX5OKAjxygYow3QujhkkZD&__after_id=enc_AewOi4CqIrLNOU5hJPsnLes-wuP_ZxBTHjLYDdfff_mu3PctKqupAraeK6pZ_wsw-9_32iq22AonsjMKtEhvEuDA"},"summary":{"total_count":1}}
+2014-09-03 00:04:13.349 HelloWorld[1067:70b] my name is: Open Graph Test User
+2014-09-03 00:04:42.076 HelloWorld[1333:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-03 00:04:42.085 HelloWorld[1333:70b] Unlimited access to network resources
+2014-09-03 00:04:42.087 HelloWorld[1333:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-03 00:04:42.201 HelloWorld[1333:70b] Resetting plugins due to page load.
+2014-09-03 00:04:42.299 HelloWorld[1333:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-03 00:04:42.375 HelloWorld[1333:70b] THREAD WARNING: ['InAppBrowser'] took '31.423096' ms. Plugin should use a background thread.
+2014-09-03 00:04:42.394 HelloWorld[1333:70b] Received Event: deviceready
+2014-09-03 00:04:42.394 HelloWorld[1333:70b] you swiped left me!
+2014-09-03 00:05:20.224 HelloWorld[1333:70b] {"access_token":"CAADnmd7XOVsBAINxG9EzeL0J1fZANzrUOMOc0ypg1fx7OX5j3TEf2UWlq7ZCm0VFMFXXaOwnSVq7lhwkyalZCoPnHmGje8R2kZBbMdSbm8vFIK0UeWZBLvE3tN8ZCP8Iq7REGQSw36RVMUwY7nuvGMJ21zu9X9mwhikUt7oiPgJLn41QUYC1WozSt7wE27u9Fg141okzP2hZAcw0qZCa64st","expires_in":5183999}
+2014-09-03 00:05:20.234 HelloWorld[1333:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-03 00:05:20.467 HelloWorld[1333:70b] my name is: Patricia Amfadbbgfhdj Vijayvergiyasen
+2014-09-03 00:05:22.772 HelloWorld[1333:70b] {"data":[{"name":"Open Graph Test User","id":"329894773850929"}],"paging":{"next":"https://graph.facebook.com/v2.0/1524505514430843/friends?limit=10&offset=10&access_token=CAADnmd7XOVsBAINxG9EzeL0J1fZANzrUOMOc0ypg1fx7OX5j3TEf2UWlq7ZCm0VFMFXXaOwnSVq7lhwkyalZCoPnHmGje8R2kZBbMdSbm8vFIK0UeWZBLvE3tN8ZCP8Iq7REGQSw36RVMUwY7nuvGMJ21zu9X9mwhikUt7oiPgJLn41QUYC1WozSt7wE27u9Fg141okzP2hZAcw0qZCa64st&__after_id=enc_AewaqSyVRi41eVLVzeJ_hBT6v5MalBguBQgYh5rUTjSr8hzCeuFMU5G4H657nFhzgB81SYpzETvdQv-cQYyQekD2"},"summary":{"total_count":1}}
+2014-09-06 04:27:42.627 HelloWorld[712:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 04:27:42.711 HelloWorld[712:70b] Unlimited access to network resources
+2014-09-06 04:27:42.715 HelloWorld[712:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 04:27:43.033 HelloWorld[712:70b] Resetting plugins due to page load.
+2014-09-06 04:27:43.130 HelloWorld[712:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 04:27:43.231 HelloWorld[712:70b] THREAD WARNING: ['InAppBrowser'] took '65.781982' ms. Plugin should use a background thread.
+2014-09-06 04:27:43.243 HelloWorld[712:70b] Received Event: deviceready
+2014-09-06 04:27:43.244 HelloWorld[712:70b] you swiped left me!
+2014-09-06 04:27:43.301 HelloWorld[712:70b] webView:didFailLoadWithError - -1009: The Internet connection appears to be offline.
+2014-09-06 04:27:45.874 HelloWorld[712:70b] ERROR: {}
+2014-09-06 04:28:23.344 HelloWorld[923:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 04:28:23.350 HelloWorld[923:70b] Unlimited access to network resources
+2014-09-06 04:28:23.353 HelloWorld[923:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 04:28:23.472 HelloWorld[923:70b] Resetting plugins due to page load.
+2014-09-06 04:28:23.536 HelloWorld[923:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 04:28:23.588 HelloWorld[923:70b] THREAD WARNING: ['InAppBrowser'] took '20.889648' ms. Plugin should use a background thread.
+2014-09-06 04:28:23.601 HelloWorld[923:70b] Received Event: deviceready
+2014-09-06 04:28:23.601 HelloWorld[923:70b] you swiped left me!
+2014-09-06 04:28:23.666 HelloWorld[923:70b] webView:didFailLoadWithError - -1009: The Internet connection appears to be offline.
+2014-09-06 04:28:26.257 HelloWorld[923:70b] ERROR: {}
+2014-09-06 15:56:46.974 HelloWorld[20352:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 15:56:46.997 HelloWorld[20352:70b] Unlimited access to network resources
+2014-09-06 15:56:47.006 HelloWorld[20352:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 15:56:47.276 HelloWorld[20352:70b] Resetting plugins due to page load.
+2014-09-06 15:56:47.363 HelloWorld[20352:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 15:56:47.443 HelloWorld[20352:70b] THREAD WARNING: ['InAppBrowser'] took '43.230957' ms. Plugin should use a background thread.
+2014-09-06 15:56:47.455 HelloWorld[20352:70b] Received Event: deviceready
+2014-09-06 15:56:47.455 HelloWorld[20352:70b] you swiped left me!
+2014-09-06 15:56:56.967 HelloWorld[20352:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-06 15:57:33.040 HelloWorld[20352:70b] {"access_token":"CAADnmd7XOVsBALA7pZAuZCV6hZBIdA5KN3AZCxIlMTjXVPPbzdjf6eeRNq3OfihZBVl9ZCHHdULCxCZBffUzaFtLzzFhm4UZANZAdEZC52eZAwsQPOlNMWGihpHb6HTuO7xoFPVzOFwnAx9mCK80qcggikgL9oZC9kBbj5YZBkxmL4J3qdtp2SZCF16P6pUAPUvfK4oxs2uODQHlT24HUDZChX9suVo","expires_in":5183994}
+2014-09-06 15:57:33.705 HelloWorld[20352:70b] my name is: test one
+2014-09-06 15:57:34.410 HelloWorld[20352:70b] Friends: [object Object]
+2014-09-06 15:58:52.760 HelloWorld[20914:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 15:58:52.768 HelloWorld[20914:70b] Unlimited access to network resources
+2014-09-06 15:58:52.771 HelloWorld[20914:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 15:58:52.916 HelloWorld[20914:70b] Resetting plugins due to page load.
+2014-09-06 15:58:52.986 HelloWorld[20914:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 15:58:53.039 HelloWorld[20914:70b] Received Event: deviceready
+2014-09-06 15:58:53.039 HelloWorld[20914:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-06 15:58:53.040 HelloWorld[20914:70b] you swiped left me!
+2014-09-06 15:58:55.062 HelloWorld[20914:70b] my name is: 
+2014-09-06 15:59:53.141 HelloWorld[21256:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 15:59:53.147 HelloWorld[21256:70b] Unlimited access to network resources
+2014-09-06 15:59:53.149 HelloWorld[21256:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 15:59:53.258 HelloWorld[21256:70b] Resetting plugins due to page load.
+2014-09-06 15:59:53.330 HelloWorld[21256:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 15:59:53.368 HelloWorld[21256:70b] Received Event: deviceready
+2014-09-06 15:59:53.369 HelloWorld[21256:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-06 15:59:53.369 HelloWorld[21256:70b] you swiped left me!
+2014-09-06 15:59:59.483 HelloWorld[21256:70b] my name is: 
+2014-09-06 16:00:43.129 HelloWorld[21479:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:00:43.139 HelloWorld[21479:70b] Unlimited access to network resources
+2014-09-06 16:00:43.142 HelloWorld[21479:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:00:43.259 HelloWorld[21479:70b] Resetting plugins due to page load.
+2014-09-06 16:00:43.325 HelloWorld[21479:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:00:43.378 HelloWorld[21479:70b] THREAD WARNING: ['InAppBrowser'] took '21.043945' ms. Plugin should use a background thread.
+2014-09-06 16:00:43.390 HelloWorld[21479:70b] Received Event: deviceready
+2014-09-06 16:00:43.391 HelloWorld[21479:70b] you swiped left me!
+2014-09-06 16:02:01.735 HelloWorld[21479:70b] webView:didFailLoadWithError - 101: The URL can’t be shown
+2014-09-06 16:02:03.900 HelloWorld[21479:70b] ERROR: {}
+2014-09-06 16:04:10.072 HelloWorld[22250:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:04:10.081 HelloWorld[22250:70b] Unlimited access to network resources
+2014-09-06 16:04:10.084 HelloWorld[22250:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:04:10.193 HelloWorld[22250:70b] Resetting plugins due to page load.
+2014-09-06 16:04:10.266 HelloWorld[22250:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:04:10.335 HelloWorld[22250:70b] THREAD WARNING: ['InAppBrowser'] took '29.904297' ms. Plugin should use a background thread.
+2014-09-06 16:04:10.351 HelloWorld[22250:70b] Received Event: deviceready
+2014-09-06 16:04:10.352 HelloWorld[22250:70b] you swiped left me!
+2014-09-06 16:04:11.933 HelloWorld[22250:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-06 16:04:20.779 HelloWorld[22250:70b] {"access_token":"CAADnmd7XOVsBAB0OZApQG9DZCxZBjWI34lsnWJiLFM6ZCkH4ZCTRmD2kXdj1DfOu4E9GVbUqxiiagNNzb9xXsfZCWp1E3YhwXpxx8COZAVBmLWpklAFysmXUOr2f1ZB654MpHXIgcxAOtyWjQWXgzZCVWZAS4AehZByNbGZBnTbW81ZCxqJK3uPO5drZAadGfpqpIXqb9ZBDyIZBZAT4DZCSqXloMNa4I1","expires_in":5183586}
+2014-09-06 16:04:20.788 HelloWorld[22250:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-06 16:04:21.129 HelloWorld[22250:70b] my name is: test one
+2014-09-06 16:04:21.357 HelloWorld[22250:70b] friends:
+2014-09-06 16:04:21.357 HelloWorld[22250:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?limit=10&offset=10&access_token=CAADnmd7XOVsBAB0OZApQG9DZCxZBjWI34lsnWJiLFM6ZCkH4ZCTRmD2kXdj1DfOu4E9GVbUqxiiagNNzb9xXsfZCWp1E3YhwXpxx8COZAVBmLWpklAFysmXUOr2f1ZB654MpHXIgcxAOtyWjQWXgzZCVWZAS4AehZByNbGZBnTbW81ZCxqJK3uPO5drZAadGfpqpIXqb9ZBDyIZBZAT4DZCSqXloMNa4I1&__after_id=enc_AeyarEEfxYTX_iCzjPRq30_Thfif-ZGZ68PgYG8rdcYhhY6wSRQV4lhjvYBakrAA04zOxZHQacolwpoJP2AkuL-I"},"summary":{"total_count":4}}
+2014-09-06 16:07:01.877 HelloWorld[22839:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:07:01.885 HelloWorld[22839:70b] Unlimited access to network resources
+2014-09-06 16:07:01.888 HelloWorld[22839:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:07:01.998 HelloWorld[22839:70b] Resetting plugins due to page load.
+2014-09-06 16:07:02.071 HelloWorld[22839:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:07:02.131 HelloWorld[22839:70b] THREAD WARNING: ['InAppBrowser'] took '22.851807' ms. Plugin should use a background thread.
+2014-09-06 16:07:02.148 HelloWorld[22839:70b] Received Event: deviceready
+2014-09-06 16:07:02.149 HelloWorld[22839:70b] you swiped left me!
+2014-09-06 16:07:08.890 HelloWorld[22839:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-06 16:07:34.487 HelloWorld[22839:70b] {"access_token":"CAADnmd7XOVsBAFhFCZAEduSEBSyc1HPNeyADc8jvzPC7s7S2GzXxv49YcOQhagEwwkPRZCVcuccCPAEnNC8sWxq5GOEHDtAP3Cdfb33sHMMS55OIuqzWnCBd9WhUmZCFxSBGNMIMBHCMZAg2cGrZC9x0JWr7oTDzqilk6VPXY8iHLLTdwYsWms13cn8MqSwSLmMktY8LxoUMzGwKWVM0T","expires_in":5183392}
+2014-09-06 16:07:34.497 HelloWorld[22839:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-06 16:07:34.811 HelloWorld[22839:70b] my name is: test one
+2014-09-06 16:07:35.207 HelloWorld[22839:70b] friends:
+2014-09-06 16:07:35.207 HelloWorld[22839:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?limit=10&offset=10&access_token=CAADnmd7XOVsBAFhFCZAEduSEBSyc1HPNeyADc8jvzPC7s7S2GzXxv49YcOQhagEwwkPRZCVcuccCPAEnNC8sWxq5GOEHDtAP3Cdfb33sHMMS55OIuqzWnCBd9WhUmZCFxSBGNMIMBHCMZAg2cGrZC9x0JWr7oTDzqilk6VPXY8iHLLTdwYsWms13cn8MqSwSLmMktY8LxoUMzGwKWVM0T&__after_id=enc_Aezqy77ikmTKUBAn8VdYd_BPhufG54PsA0YToYzPBOT-eJW9mQ9K7vl5YoYfejOqFlHmhBYqOO8kGbBHQNNRb8uG"},"summary":{"total_count":4}}
+2014-09-06 16:09:06.341 HelloWorld[23320:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:09:06.347 HelloWorld[23320:70b] Unlimited access to network resources
+2014-09-06 16:09:06.350 HelloWorld[23320:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:09:06.455 HelloWorld[23320:70b] Resetting plugins due to page load.
+2014-09-06 16:09:06.519 HelloWorld[23320:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:10:10.128 HelloWorld[23670:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:10:10.134 HelloWorld[23670:70b] Unlimited access to network resources
+2014-09-06 16:10:10.138 HelloWorld[23670:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:10:10.237 HelloWorld[23670:70b] Resetting plugins due to page load.
+2014-09-06 16:10:10.288 HelloWorld[23670:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:21:13.295 HelloWorld[25708:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:21:13.301 HelloWorld[25708:70b] Unlimited access to network resources
+2014-09-06 16:21:13.303 HelloWorld[25708:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:21:13.411 HelloWorld[25708:70b] Resetting plugins due to page load.
+2014-09-06 16:21:13.487 HelloWorld[25708:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:22:47.472 HelloWorld[26139:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:22:47.480 HelloWorld[26139:70b] Unlimited access to network resources
+2014-09-06 16:22:47.483 HelloWorld[26139:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:22:47.592 HelloWorld[26139:70b] Resetting plugins due to page load.
+2014-09-06 16:22:47.674 HelloWorld[26139:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:25:28.895 HelloWorld[27436:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:25:28.904 HelloWorld[27436:70b] Unlimited access to network resources
+2014-09-06 16:25:28.907 HelloWorld[27436:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:25:29.005 HelloWorld[27436:70b] Resetting plugins due to page load.
+2014-09-06 16:25:29.094 HelloWorld[27436:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-09-06 16:25:57.750 HelloWorld[27792:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:25:57.759 HelloWorld[27792:70b] Unlimited access to network resources
+2014-09-06 16:25:57.761 HelloWorld[27792:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:25:57.863 HelloWorld[27792:70b] Resetting plugins due to page load.
+2014-09-06 16:25:57.960 HelloWorld[27792:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:28:18.290 HelloWorld[29047:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:28:18.295 HelloWorld[29047:70b] Unlimited access to network resources
+2014-09-06 16:28:18.298 HelloWorld[29047:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:28:18.405 HelloWorld[29047:70b] Resetting plugins due to page load.
+2014-09-06 16:28:18.487 HelloWorld[29047:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:29:19.974 HelloWorld[29708:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:29:19.981 HelloWorld[29708:70b] Unlimited access to network resources
+2014-09-06 16:29:19.983 HelloWorld[29708:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:29:20.087 HelloWorld[29708:70b] Resetting plugins due to page load.
+2014-09-06 16:29:20.164 HelloWorld[29708:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:29:20.223 HelloWorld[29708:70b] THREAD WARNING: ['InAppBrowser'] took '27.547852' ms. Plugin should use a background thread.
+2014-09-06 16:29:20.235 HelloWorld[29708:70b] Received Event: deviceready
+2014-09-06 16:29:20.236 HelloWorld[29708:70b] you swiped left me!
+2014-09-06 16:29:52.087 HelloWorld[30090:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:29:52.093 HelloWorld[30090:70b] Unlimited access to network resources
+2014-09-06 16:29:52.095 HelloWorld[30090:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:29:52.204 HelloWorld[30090:70b] Resetting plugins due to page load.
+2014-09-06 16:29:52.330 HelloWorld[30090:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:29:52.394 HelloWorld[30090:70b] THREAD WARNING: ['InAppBrowser'] took '24.338623' ms. Plugin should use a background thread.
+2014-09-06 16:29:52.408 HelloWorld[30090:70b] Received Event: deviceready
+2014-09-06 16:29:52.409 HelloWorld[30090:70b] you swiped left me!
+2014-09-06 16:30:03.381 HelloWorld[30090:70b] {"access_token":"CAADnmd7XOVsBAFq0rGwZB42WB5GdNrgQnZCzzeOoza65gghQ30boYvhRTaZCHwZCGouBb93dsydsTKS0yitxrx66dMLE25TfrrFIuauWbOQcsdCcwTlZBtmvXH8QXLTiND4UlOMaBBPDh8ZANwxiUcpwmDmQlBNSnzraYmAZBBaR6w4ZAwMGLJRdZBnlwkZBjO6nPMW6MrTa7e7X2qerreZB9OY","expires_in":5182044}
+2014-09-06 16:30:03.386 HelloWorld[30090:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-06 16:30:03.804 HelloWorld[30090:70b] my name is: test one
+2014-09-06 16:30:04.183 HelloWorld[30090:70b] friends:
+2014-09-06 16:30:04.183 HelloWorld[30090:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?limit=10&offset=10&access_token=CAADnmd7XOVsBAFq0rGwZB42WB5GdNrgQnZCzzeOoza65gghQ30boYvhRTaZCHwZCGouBb93dsydsTKS0yitxrx66dMLE25TfrrFIuauWbOQcsdCcwTlZBtmvXH8QXLTiND4UlOMaBBPDh8ZANwxiUcpwmDmQlBNSnzraYmAZBBaR6w4ZAwMGLJRdZBnlwkZBjO6nPMW6MrTa7e7X2qerreZB9OY&__after_id=enc_AexL-T6Wf2RsdD_8j9745O3gduCWQD317XO7D8uhUiksDl0Z8rImaQSgpJvjnVrreYr9jKUeSDihJfy2O33SV4GQ"},"summary":{"total_count":4}}
+2014-09-06 16:31:22.688 HelloWorld[30846:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:31:22.696 HelloWorld[30846:70b] Unlimited access to network resources
+2014-09-06 16:31:22.699 HelloWorld[30846:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:31:22.805 HelloWorld[30846:70b] Resetting plugins due to page load.
+2014-09-06 16:31:22.940 HelloWorld[30846:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:33:16.024 HelloWorld[31325:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:33:16.034 HelloWorld[31325:70b] Unlimited access to network resources
+2014-09-06 16:33:16.036 HelloWorld[31325:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:33:16.135 HelloWorld[31325:70b] Resetting plugins due to page load.
+2014-09-06 16:33:16.234 HelloWorld[31325:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:33:52.885 HelloWorld[31611:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:33:52.892 HelloWorld[31611:70b] Unlimited access to network resources
+2014-09-06 16:33:52.894 HelloWorld[31611:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:33:52.991 HelloWorld[31611:70b] Resetting plugins due to page load.
+2014-09-06 16:33:53.089 HelloWorld[31611:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:34:46.001 HelloWorld[31871:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:34:46.008 HelloWorld[31871:70b] Unlimited access to network resources
+2014-09-06 16:34:46.011 HelloWorld[31871:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:34:46.120 HelloWorld[31871:70b] Resetting plugins due to page load.
+2014-09-06 16:34:46.228 HelloWorld[31871:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:34:46.279 HelloWorld[31871:70b] Received Event: deviceready
+2014-09-06 16:34:46.280 HelloWorld[31871:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-06 16:34:46.280 HelloWorld[31871:70b] you swiped left me!
+2014-09-06 16:34:48.908 HelloWorld[31871:70b] my name is: 
+2014-09-06 16:37:36.976 HelloWorld[32463:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:37:36.982 HelloWorld[32463:70b] Unlimited access to network resources
+2014-09-06 16:37:36.985 HelloWorld[32463:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:37:37.094 HelloWorld[32463:70b] Resetting plugins due to page load.
+2014-09-06 16:37:37.199 HelloWorld[32463:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:37:37.254 HelloWorld[32463:70b] Received Event: deviceready
+2014-09-06 16:37:37.255 HelloWorld[32463:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-06 16:37:37.255 HelloWorld[32463:70b] you swiped left me!
+2014-09-06 16:37:37.943 HelloWorld[32463:70b] my name is: 
+2014-09-06 16:39:58.570 HelloWorld[33090:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:39:58.579 HelloWorld[33090:70b] Unlimited access to network resources
+2014-09-06 16:39:58.582 HelloWorld[33090:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:39:58.687 HelloWorld[33090:70b] Resetting plugins due to page load.
+2014-09-06 16:39:58.790 HelloWorld[33090:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:39:58.831 HelloWorld[33090:70b] Received Event: deviceready
+2014-09-06 16:39:58.831 HelloWorld[33090:70b] you swiped left me!
+2014-09-06 16:39:59.481 HelloWorld[33090:70b] {"avatar":"https://graph.facebook.com/undefined/picture","gender":1,"raw":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}}}
+2014-09-06 16:39:59.481 HelloWorld[33090:70b] my name is: 
+2014-09-06 16:43:44.979 HelloWorld[33885:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:43:44.988 HelloWorld[33885:70b] Unlimited access to network resources
+2014-09-06 16:43:44.990 HelloWorld[33885:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:43:45.090 HelloWorld[33885:70b] Resetting plugins due to page load.
+2014-09-06 16:43:45.194 HelloWorld[33885:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:43:45.236 HelloWorld[33885:70b] Received Event: deviceready
+2014-09-06 16:43:45.236 HelloWorld[33885:70b] you swiped left me!
+2014-09-06 16:43:46.105 HelloWorld[33885:70b] {"avatar":"https://graph.facebook.com/undefined/picture","gender":1,"raw":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}}}
+2014-09-06 16:43:46.105 HelloWorld[33885:70b] my name is: 
+2014-09-06 16:44:41.835 HelloWorld[34150:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-06 16:44:41.841 HelloWorld[34150:70b] Unlimited access to network resources
+2014-09-06 16:44:41.843 HelloWorld[34150:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-06 16:44:41.947 HelloWorld[34150:70b] Resetting plugins due to page load.
+2014-09-06 16:44:42.045 HelloWorld[34150:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-06 16:44:42.096 HelloWorld[34150:70b] Received Event: deviceready
+2014-09-06 16:44:42.096 HelloWorld[34150:70b] you swiped left me!
+2014-09-06 16:44:44.424 HelloWorld[34150:70b] {"avatar":"https://graph.facebook.com/undefined/picture","gender":1,"raw":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}}}
+2014-09-06 16:44:44.425 HelloWorld[34150:70b] token check failed, need relog
+2014-09-06 16:44:44.446 HelloWorld[34150:70b] THREAD WARNING: ['InAppBrowser'] took '21.103760' ms. Plugin should use a background thread.
+2014-09-06 16:44:57.186 HelloWorld[34150:70b] relogged
+2014-09-06 16:44:57.186 HelloWorld[34150:70b] my name is: 
+2014-09-06 16:44:57.196 HelloWorld[34150:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 12:54:05.968 HelloWorld[82481:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 12:54:05.991 HelloWorld[82481:70b] Unlimited access to network resources
+2014-09-07 12:54:05.995 HelloWorld[82481:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 12:54:06.289 HelloWorld[82481:70b] Resetting plugins due to page load.
+2014-09-07 12:54:06.422 HelloWorld[82481:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 12:54:06.459 HelloWorld[82481:70b] Received Event: deviceready
+2014-09-07 12:54:06.459 HelloWorld[82481:70b] you swiped left me!
+2014-09-07 12:54:07.301 HelloWorld[82481:70b] {"avatar":"https://graph.facebook.com/undefined/picture","gender":1,"raw":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}}}
+2014-09-07 12:54:07.301 HelloWorld[82481:70b] token check failed, need relog
+2014-09-07 12:54:07.355 HelloWorld[82481:70b] THREAD WARNING: ['InAppBrowser'] took '53.854980' ms. Plugin should use a background thread.
+2014-09-07 12:55:48.630 HelloWorld[82932:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 12:55:48.639 HelloWorld[82932:70b] Unlimited access to network resources
+2014-09-07 12:55:48.641 HelloWorld[82932:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 12:55:48.749 HelloWorld[82932:70b] Resetting plugins due to page load.
+2014-09-07 12:55:48.851 HelloWorld[82932:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 12:55:48.892 HelloWorld[82932:70b] Received Event: deviceready
+2014-09-07 12:55:48.892 HelloWorld[82932:70b] you swiped left me!
+2014-09-07 12:55:49.096 HelloWorld[82932:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 12:55:50.599 HelloWorld[82932:70b] {"avatar":"https://graph.facebook.com/undefined/picture","gender":1,"raw":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}}}
+2014-09-07 12:55:50.600 HelloWorld[82932:70b] token check failed, need relog
+2014-09-07 12:55:50.621 HelloWorld[82932:70b] THREAD WARNING: ['InAppBrowser'] took '20.209229' ms. Plugin should use a background thread.
+2014-09-07 12:56:16.732 HelloWorld[82932:70b] relogged
+2014-09-07 12:56:16.732 HelloWorld[82932:70b] my name is: 
+2014-09-07 12:56:16.743 HelloWorld[82932:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 12:56:55.006 HelloWorld[83223:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 12:56:55.014 HelloWorld[83223:70b] Unlimited access to network resources
+2014-09-07 12:56:55.016 HelloWorld[83223:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 12:56:55.111 HelloWorld[83223:70b] Resetting plugins due to page load.
+2014-09-07 12:56:55.214 HelloWorld[83223:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 12:56:55.273 HelloWorld[83223:70b] THREAD WARNING: ['InAppBrowser'] took '24.115967' ms. Plugin should use a background thread.
+2014-09-07 12:56:55.285 HelloWorld[83223:70b] Received Event: deviceready
+2014-09-07 12:56:55.286 HelloWorld[83223:70b] you swiped left me!
+2014-09-07 12:57:25.315 HelloWorld[83223:70b] webView:didFailLoadWithError - 101: The URL can’t be shown
+2014-09-07 12:57:36.143 HelloWorld[83223:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 12:57:36.281 HelloWorld[83223:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 12:57:36.285 HelloWorld[83223:70b] friends:
+2014-09-07 12:57:36.285 HelloWorld[83223:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?limit=10&offset=10&access_token=CAADnmd7XOVsBAN4PrjAuLLTHb6wom6AFGRGgM2F1bLpk7cn4FxF3R4t7RyCHVekBMPIg6k7KLm5ZCZBCQiL1KZBOoat5nvuBPQ1IjCjtLK67umEGEkHYAIhvXT6FujzoSgpN9OoRM3uZAi19Tdwh7InaBOVZCivjvPEXxBa50rZBEo2LCZAF5YzRKcZAZCwSpQPTxZBF9qfgwmpN0HexvrGdJp&__after_id=enc_AexPiPkMlEbKjWLDnQhuabyUNNgkcYH171-QHqEzJgtyThaRHwwfbsuLyWHtqChzxDPJ8BVZ2spzx3UIwvnhKO-d"},"summary":{"total_count":4}}
+2014-09-07 12:57:36.435 HelloWorld[83223:70b] {"id":"1478032202454078","avatar":"https://graph.facebook.com/1478032202454078/picture","name":"test one","firstname":"test","lastname":"one","gender":1,"raw":{"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}}
+2014-09-07 12:57:36.435 HelloWorld[83223:70b] my name is: test one
+2014-09-07 13:03:16.961 HelloWorld[84561:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:03:16.968 HelloWorld[84561:70b] Unlimited access to network resources
+2014-09-07 13:03:16.970 HelloWorld[84561:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:03:17.066 HelloWorld[84561:70b] Resetting plugins due to page load.
+2014-09-07 13:03:17.162 HelloWorld[84561:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:03:17.228 HelloWorld[84561:70b] THREAD WARNING: ['InAppBrowser'] took '30.475098' ms. Plugin should use a background thread.
+2014-09-07 13:03:17.240 HelloWorld[84561:70b] Received Event: deviceready
+2014-09-07 13:03:22.227 HelloWorld[84561:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-07 13:03:30.750 HelloWorld[84561:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 13:03:30.881 HelloWorld[84561:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:03:30.881 HelloWorld[84561:70b] token validity: true
+2014-09-07 13:04:46.403 HelloWorld[84970:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:04:46.411 HelloWorld[84970:70b] Unlimited access to network resources
+2014-09-07 13:04:46.413 HelloWorld[84970:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:04:46.519 HelloWorld[84970:70b] Resetting plugins due to page load.
+2014-09-07 13:04:46.620 HelloWorld[84970:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:04:46.680 HelloWorld[84970:70b] THREAD WARNING: ['InAppBrowser'] took '24.114014' ms. Plugin should use a background thread.
+2014-09-07 13:04:46.698 HelloWorld[84970:70b] Received Event: deviceready
+2014-09-07 13:04:57.647 HelloWorld[84970:70b] {"access_token":"CAADnmd7XOVsBAP7nLxvgBdIM1HmkZAtf9RNATZC8ZAKZBu12EvE8mdCtSYbZAdjbiy9t3tR5T4sgqFqlqJNCo35GEdjZCY8KxSDlS2HWuO1DRuWMuxEsmbbA6PcZCBMLshjvM4mRSZBgvWQj3o7BxInAlNmt04CsLlwBcE4T8lHcEdcwji63eTUZBbZAgHDRB7pEFFJgSS2zQd6unD7DskFqna","expires_in":5107948}
+2014-09-07 13:04:57.657 HelloWorld[84970:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 13:04:57.784 HelloWorld[84970:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:04:57.784 HelloWorld[84970:70b] token validity: true
+2014-09-07 13:07:58.583 HelloWorld[85701:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:07:58.592 HelloWorld[85701:70b] Unlimited access to network resources
+2014-09-07 13:07:58.594 HelloWorld[85701:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:07:58.694 HelloWorld[85701:70b] Resetting plugins due to page load.
+2014-09-07 13:07:58.797 HelloWorld[85701:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:07:58.833 HelloWorld[85701:70b] Received Event: deviceready
+2014-09-07 13:07:58.834 HelloWorld[85701:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:07:59.045 HelloWorld[85701:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:07:59.045 HelloWorld[85701:70b] token validity: false
+2014-09-07 13:11:40.590 HelloWorld[86483:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:11:40.600 HelloWorld[86483:70b] Unlimited access to network resources
+2014-09-07 13:11:40.603 HelloWorld[86483:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:11:40.701 HelloWorld[86483:70b] Resetting plugins due to page load.
+2014-09-07 13:11:40.804 HelloWorld[86483:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:11:40.834 HelloWorld[86483:70b] Received Event: deviceready
+2014-09-07 13:22:49.374 HelloWorld[88578:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:22:49.383 HelloWorld[88578:70b] Unlimited access to network resources
+2014-09-07 13:22:49.386 HelloWorld[88578:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:22:49.483 HelloWorld[88578:70b] Resetting plugins due to page load.
+2014-09-07 13:22:49.579 HelloWorld[88578:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:22:49.619 HelloWorld[88578:70b] Received Event: deviceready
+2014-09-07 13:22:49.620 HelloWorld[88578:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:22:49.864 HelloWorld[88578:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:22:49.864 HelloWorld[88578:70b] token validity: false
+2014-09-07 13:22:49.890 HelloWorld[88578:70b] THREAD WARNING: ['InAppBrowser'] took '25.195068' ms. Plugin should use a background thread.
+2014-09-07 13:23:17.012 HelloWorld[88578:70b] {"access_token":"CAADnmd7XOVsBAPUSfELaPnltNut0TGc97zBzFD7UeSyJrwpvJVIXNYUth24nGneABJnOI6H5zGil1BCbUGb7Kgaqydw6vdJVGF5pNhx8ShJ8XXgIz0gX6bxD9oHrFQWT7bMyvRonCLG02C01k9KoC6ZA0YYR9yXRLXFUNlACVvvGtLhDzu2QU7FhuvkUZD","expires_in":5106849}
+2014-09-07 13:23:17.023 HelloWorld[88578:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 13:23:17.100 HelloWorld[88578:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:23:17.100 HelloWorld[88578:70b] token validity: true
+2014-09-07 13:30:07.348 HelloWorld[90013:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:30:07.356 HelloWorld[90013:70b] Unlimited access to network resources
+2014-09-07 13:30:07.358 HelloWorld[90013:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:30:07.465 HelloWorld[90013:70b] Resetting plugins due to page load.
+2014-09-07 13:30:07.573 HelloWorld[90013:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:30:07.615 HelloWorld[90013:70b] Received Event: deviceready
+2014-09-07 13:30:07.616 HelloWorld[90013:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:30:07.804 HelloWorld[90013:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:30:07.804 HelloWorld[90013:70b] token validity: false
+2014-09-07 13:30:07.828 HelloWorld[90013:70b] THREAD WARNING: ['InAppBrowser'] took '23.062744' ms. Plugin should use a background thread.
+2014-09-07 13:30:16.457 HelloWorld[90013:70b] {"access_token":"CAADnmd7XOVsBAHaCfZCIVF9boAZBP2UOL6jm0DG3sZC4o371EjUh1KbVWATvEVuAQKlWsCFEGyQsxqWB7HRucROvg9oZCUnv8WtDh3HNjgrXEmnNN4ZBcffQ4OnkUxFv8Tj8ZCmYOFRvjW4WFZBkAuD0dtCXeuevMB3aMzGbZAjxcuWkx3csqIPhNhVCW3I7gF7pvjT5zVcs1urT5BEFaW9T","expires_in":5106429}
+2014-09-07 13:30:16.463 HelloWorld[90013:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 13:30:16.537 HelloWorld[90013:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:30:16.538 HelloWorld[90013:70b] token validity: true
+2014-09-07 13:30:16.609 HelloWorld[90013:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:30:16.672 HelloWorld[90013:70b] friends:
+2014-09-07 13:30:16.672 HelloWorld[90013:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?limit=10&offset=10&access_token=CAADnmd7XOVsBAHaCfZCIVF9boAZBP2UOL6jm0DG3sZC4o371EjUh1KbVWATvEVuAQKlWsCFEGyQsxqWB7HRucROvg9oZCUnv8WtDh3HNjgrXEmnNN4ZBcffQ4OnkUxFv8Tj8ZCmYOFRvjW4WFZBkAuD0dtCXeuevMB3aMzGbZAjxcuWkx3csqIPhNhVCW3I7gF7pvjT5zVcs1urT5BEFaW9T&__after_id=enc_AexA0cSDdztMWpSA2uWeBS6Nr3XQntpnkQJ66ANGET_UlwaWG7pjUC1w_LnkvZX6vj0R0dcbQJAO3PvEl48YOfyL"},"summary":{"total_count":4}}
+2014-09-07 13:40:21.618 HelloWorld[92487:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:40:21.630 HelloWorld[92487:70b] Unlimited access to network resources
+2014-09-07 13:40:21.633 HelloWorld[92487:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:40:21.750 HelloWorld[92487:70b] Resetting plugins due to page load.
+2014-09-07 13:40:21.866 HelloWorld[92487:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:40:21.914 HelloWorld[92487:70b] Received Event: deviceready
+2014-09-07 13:40:21.914 HelloWorld[92487:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:40:22.114 HelloWorld[92487:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:40:22.114 HelloWorld[92487:70b] token validity: false
+2014-09-07 13:40:22.145 HelloWorld[92487:70b] THREAD WARNING: ['InAppBrowser'] took '30.406982' ms. Plugin should use a background thread.
+2014-09-07 13:40:34.798 HelloWorld[92487:70b] {"access_token":"CAADnmd7XOVsBAF0TPZBrd6bdPw2ssNXUX3ea0TBc8e69B1CE3rHW6uxZCvW2OuRa8ZBcaBnpwozSdx9I4ZARmwm7c8nnxTQse8sdxGuAHHtv8TlWc2HIMYJvZBVgS0wxAMwJvR78Q3P1SPp6TLlq2roxcwjyNeB7hYWp09l89nIURlqrMcQ0Q4ZAVtXWw47UsKeaobYIs8lpn9Duy7b3ig","expires_in":5105811}
+2014-09-07 13:40:34.808 HelloWorld[92487:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 13:40:34.868 HelloWorld[92487:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:40:34.868 HelloWorld[92487:70b] token validity: true
+2014-09-07 13:40:34.948 HelloWorld[92487:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:40:34.979 HelloWorld[92487:70b] friends:
+2014-09-07 13:40:34.979 HelloWorld[92487:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAF0TPZBrd6bdPw2ssNXUX3ea0TBc8e69B1CE3rHW6uxZCvW2OuRa8ZBcaBnpwozSdx9I4ZARmwm7c8nnxTQse8sdxGuAHHtv8TlWc2HIMYJvZBVgS0wxAMwJvR78Q3P1SPp6TLlq2roxcwjyNeB7hYWp09l89nIURlqrMcQ0Q4ZAVtXWw47UsKeaobYIs8lpn9Duy7b3ig&limit=5000&offset=5000&__after_id=enc_AewjcdT7-1symIVm-RW8dhX1_p4LY0nHbCBL6_7xN0teWnScOKA3jpMpInRCiWYr7BmN5-Y46kytpJ0nFg9UZA1A"},"summary":{"total_count":4}}
+2014-09-07 13:48:14.409 HelloWorld[95782:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:48:14.418 HelloWorld[95782:70b] Unlimited access to network resources
+2014-09-07 13:48:14.420 HelloWorld[95782:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:48:14.520 HelloWorld[95782:70b] Resetting plugins due to page load.
+2014-09-07 13:48:14.634 HelloWorld[95782:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:48:14.672 HelloWorld[95782:70b] Received Event: deviceready
+2014-09-07 13:48:14.673 HelloWorld[95782:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:48:19.058 HelloWorld[95782:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:48:19.058 HelloWorld[95782:70b] token validity: false
+2014-09-07 13:48:19.076 HelloWorld[95782:70b] THREAD WARNING: ['InAppBrowser'] took '17.084717' ms. Plugin should use a background thread.
+2014-09-07 13:48:28.151 HelloWorld[95782:70b] {"access_token":"CAADnmd7XOVsBAPZAamKklbEOw3UloAY8Fu4jZCzX1IfNFEdQbIKjx7OSGkhtACHdDw99zMjgrpph30CuZA5ttRKFU9dk2gaAZCpFiaEj6c2eL5doG4SRL2ivJXkDEsILhutZBUJo3RvjCc9Ed3TXvKNJMZCbbNNpoeTMwShZBm6XSE0x7FclOUz","expires_in":5105338}
+2014-09-07 13:48:28.165 HelloWorld[95782:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 13:48:28.218 HelloWorld[95782:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:48:28.219 HelloWorld[95782:70b] token validity: true
+2014-09-07 13:48:28.292 HelloWorld[95782:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:48:28.342 HelloWorld[95782:70b] friends:
+2014-09-07 13:48:28.342 HelloWorld[95782:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAPZAamKklbEOw3UloAY8Fu4jZCzX1IfNFEdQbIKjx7OSGkhtACHdDw99zMjgrpph30CuZA5ttRKFU9dk2gaAZCpFiaEj6c2eL5doG4SRL2ivJXkDEsILhutZBUJo3RvjCc9Ed3TXvKNJMZCbbNNpoeTMwShZBm6XSE0x7FclOUz&limit=5000&offset=5000&__after_id=enc_AeySET2o2LG6eHw4xAiI_LB2melxonKgaX6JRCP69MVJ9n6obRuIeVC_3HMIhka2emIh_SdppQmXcdCdzmOapZ4D"},"summary":{"total_count":4}}
+2014-09-07 13:51:28.191 HelloWorld[96516:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:51:28.197 HelloWorld[96516:70b] Unlimited access to network resources
+2014-09-07 13:51:28.199 HelloWorld[96516:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:51:28.299 HelloWorld[96516:70b] Resetting plugins due to page load.
+2014-09-07 13:51:28.402 HelloWorld[96516:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:51:28.439 HelloWorld[96516:70b] Received Event: deviceready
+2014-09-07 13:51:28.439 HelloWorld[96516:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:51:28.643 HelloWorld[96516:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:51:28.643 HelloWorld[96516:70b] token validity: false
+2014-09-07 13:51:28.673 HelloWorld[96516:70b] THREAD WARNING: ['InAppBrowser'] took '30.024902' ms. Plugin should use a background thread.
+2014-09-07 13:53:48.797 HelloWorld[97058:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:53:48.803 HelloWorld[97058:70b] Unlimited access to network resources
+2014-09-07 13:53:48.806 HelloWorld[97058:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:53:48.924 HelloWorld[97058:70b] Resetting plugins due to page load.
+2014-09-07 13:53:49.028 HelloWorld[97058:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:53:49.076 HelloWorld[97058:70b] Received Event: deviceready
+2014-09-07 13:53:49.076 HelloWorld[97058:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:53:53.488 HelloWorld[97058:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:53:53.489 HelloWorld[97058:70b] token validity: false
+2014-09-07 13:53:53.509 HelloWorld[97058:70b] THREAD WARNING: ['InAppBrowser'] took '20.145996' ms. Plugin should use a background thread.
+2014-09-07 13:54:43.815 HelloWorld[97300:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:54:43.823 HelloWorld[97300:70b] Unlimited access to network resources
+2014-09-07 13:54:43.826 HelloWorld[97300:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:54:43.932 HelloWorld[97300:70b] Resetting plugins due to page load.
+2014-09-07 13:54:44.056 HelloWorld[97300:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:54:44.096 HelloWorld[97300:70b] Received Event: deviceready
+2014-09-07 13:54:44.096 HelloWorld[97300:70b] error JSON.stringify()ing argument: TypeError: JSON.stringify cannot serialize cyclic structures.
+2014-09-07 13:54:44.096 HelloWorld[97300:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:54:44.262 HelloWorld[97300:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:54:44.262 HelloWorld[97300:70b] token validity: false
+2014-09-07 13:54:44.292 HelloWorld[97300:70b] THREAD WARNING: ['InAppBrowser'] took '29.104004' ms. Plugin should use a background thread.
+2014-09-07 13:55:21.145 HelloWorld[97608:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:55:21.151 HelloWorld[97608:70b] Unlimited access to network resources
+2014-09-07 13:55:21.154 HelloWorld[97608:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:55:21.247 HelloWorld[97608:70b] Resetting plugins due to page load.
+2014-09-07 13:55:21.365 HelloWorld[97608:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:55:21.413 HelloWorld[97608:70b] Received Event: deviceready
+2014-09-07 13:55:21.413 HelloWorld[97608:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:55:25.665 HelloWorld[97608:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:55:25.666 HelloWorld[97608:70b] token validity: false
+2014-09-07 13:55:25.686 HelloWorld[97608:70b] THREAD WARNING: ['InAppBrowser'] took '20.527100' ms. Plugin should use a background thread.
+2014-09-07 13:57:27.916 HelloWorld[98145:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:57:27.923 HelloWorld[98145:70b] Unlimited access to network resources
+2014-09-07 13:57:27.925 HelloWorld[98145:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:57:28.040 HelloWorld[98145:70b] Resetting plugins due to page load.
+2014-09-07 13:57:28.157 HelloWorld[98145:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:57:28.197 HelloWorld[98145:70b] Received Event: deviceready
+2014-09-07 13:57:28.197 HelloWorld[98145:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:57:28.361 HelloWorld[98145:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:57:28.362 HelloWorld[98145:70b] token validity: false
+2014-09-07 13:57:28.385 HelloWorld[98145:70b] THREAD WARNING: ['InAppBrowser'] took '22.194092' ms. Plugin should use a background thread.
+2014-09-07 13:58:59.489 HelloWorld[98486:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:58:59.495 HelloWorld[98486:70b] Unlimited access to network resources
+2014-09-07 13:58:59.498 HelloWorld[98486:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:58:59.613 HelloWorld[98486:70b] Resetting plugins due to page load.
+2014-09-07 13:58:59.721 HelloWorld[98486:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:58:59.756 HelloWorld[98486:70b] Received Event: deviceready
+2014-09-07 13:58:59.757 HelloWorld[98486:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:58:59.918 HelloWorld[98486:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:58:59.918 HelloWorld[98486:70b] token validity: false
+2014-09-07 13:58:59.945 HelloWorld[98486:70b] THREAD WARNING: ['InAppBrowser'] took '26.486084' ms. Plugin should use a background thread.
+2014-09-07 13:59:41.625 HelloWorld[98814:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 13:59:41.631 HelloWorld[98814:70b] Unlimited access to network resources
+2014-09-07 13:59:41.633 HelloWorld[98814:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 13:59:41.730 HelloWorld[98814:70b] Resetting plugins due to page load.
+2014-09-07 13:59:41.843 HelloWorld[98814:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 13:59:41.882 HelloWorld[98814:70b] Received Event: deviceready
+2014-09-07 13:59:41.882 HelloWorld[98814:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 13:59:46.275 HelloWorld[98814:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 13:59:46.275 HelloWorld[98814:70b] token validity: false
+2014-09-07 13:59:46.295 HelloWorld[98814:70b] THREAD WARNING: ['InAppBrowser'] took '19.391113' ms. Plugin should use a background thread.
+2014-09-07 13:59:55.853 HelloWorld[98814:70b] {"access_token":"CAADnmd7XOVsBAAZCR8e8xJrHdXrMnXu8KRJj3o6fZAY31qtTDtQxCwgIeISEsUZCXd9FcuMKZAAWZCOaUNNEXrsFgPJAYA4B9xj5Bnj7EZCnm5QZBsIryu3oNkOsQeG7G7JPQtoMnhFiJ2VaVioZC11v7ypEb2Oc5ieWWZB7u7WZCdZBzKNmiuMygOk","expires_in":5104650}
+2014-09-07 13:59:55.863 HelloWorld[98814:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 13:59:55.925 HelloWorld[98814:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:59:55.926 HelloWorld[98814:70b] token validity: true
+2014-09-07 13:59:55.993 HelloWorld[98814:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 13:59:56.034 HelloWorld[98814:70b] friends:
+2014-09-07 13:59:56.034 HelloWorld[98814:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAAZCR8e8xJrHdXrMnXu8KRJj3o6fZAY31qtTDtQxCwgIeISEsUZCXd9FcuMKZAAWZCOaUNNEXrsFgPJAYA4B9xj5Bnj7EZCnm5QZBsIryu3oNkOsQeG7G7JPQtoMnhFiJ2VaVioZC11v7ypEb2Oc5ieWWZB7u7WZCdZBzKNmiuMygOk&limit=5000&offset=5000&__after_id=enc_AezfVuUD4vfkCLtPmd8QwKFiWbsQMp9G7YNaP0FuiTVYXxBlWVXacSG9FdEueEyWhAFXwAaoer3jegVDm2qgrRyx"},"summary":{"total_count":4}}
+2014-09-07 14:02:10.789 HelloWorld[99362:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:02:10.797 HelloWorld[99362:70b] Unlimited access to network resources
+2014-09-07 14:02:10.799 HelloWorld[99362:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:02:10.913 HelloWorld[99362:70b] Resetting plugins due to page load.
+2014-09-07 14:02:11.035 HelloWorld[99362:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:02:11.077 HelloWorld[99362:70b] Received Event: deviceready
+2014-09-07 14:02:11.078 HelloWorld[99362:70b] defaultValue
+2014-09-07 14:02:11.078 HelloWorld[99362:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:02:11.272 HelloWorld[99362:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:02:11.272 HelloWorld[99362:70b] token validity: false
+2014-09-07 14:02:11.300 HelloWorld[99362:70b] THREAD WARNING: ['InAppBrowser'] took '27.286865' ms. Plugin should use a background thread.
+2014-09-07 14:03:51.034 HelloWorld[99808:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:03:51.041 HelloWorld[99808:70b] Unlimited access to network resources
+2014-09-07 14:03:51.044 HelloWorld[99808:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:03:51.158 HelloWorld[99808:70b] Resetting plugins due to page load.
+2014-09-07 14:03:51.261 HelloWorld[99808:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:03:51.296 HelloWorld[99808:70b] Received Event: deviceready
+2014-09-07 14:03:51.296 HelloWorld[99808:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:03:55.669 HelloWorld[99808:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:03:55.669 HelloWorld[99808:70b] token validity: false
+2014-09-07 14:03:55.691 HelloWorld[99808:70b] THREAD WARNING: ['InAppBrowser'] took '21.215088' ms. Plugin should use a background thread.
+2014-09-07 14:04:20.575 HelloWorld[99808:70b] defkkk
+2014-09-07 14:07:18.292 HelloWorld[760:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:07:18.298 HelloWorld[760:70b] Unlimited access to network resources
+2014-09-07 14:07:18.301 HelloWorld[760:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:07:18.405 HelloWorld[760:70b] Resetting plugins due to page load.
+2014-09-07 14:07:18.528 HelloWorld[760:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:07:18.578 HelloWorld[760:70b] Received Event: deviceready
+2014-09-07 14:07:18.579 HelloWorld[760:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:07:18.746 HelloWorld[760:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:07:18.746 HelloWorld[760:70b] token validity: false
+2014-09-07 14:07:18.769 HelloWorld[760:70b] THREAD WARNING: ['InAppBrowser'] took '22.360107' ms. Plugin should use a background thread.
+2014-09-07 14:07:23.699 HelloWorld[760:70b] text
+2014-09-07 14:07:58.171 HelloWorld[978:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:07:58.177 HelloWorld[978:70b] Unlimited access to network resources
+2014-09-07 14:07:58.180 HelloWorld[978:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:07:58.289 HelloWorld[978:70b] Resetting plugins due to page load.
+2014-09-07 14:07:58.395 HelloWorld[978:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:07:58.439 HelloWorld[978:70b] Received Event: deviceready
+2014-09-07 14:07:58.440 HelloWorld[978:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:07:58.635 HelloWorld[978:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:07:58.635 HelloWorld[978:70b] token validity: false
+2014-09-07 14:07:58.659 HelloWorld[978:70b] THREAD WARNING: ['InAppBrowser'] took '24.024902' ms. Plugin should use a background thread.
+2014-09-07 14:08:40.179 HelloWorld[1203:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:08:40.185 HelloWorld[1203:70b] Unlimited access to network resources
+2014-09-07 14:08:40.188 HelloWorld[1203:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:08:40.295 HelloWorld[1203:70b] Resetting plugins due to page load.
+2014-09-07 14:08:40.407 HelloWorld[1203:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:08:40.446 HelloWorld[1203:70b] Received Event: deviceready
+2014-09-07 14:08:40.446 HelloWorld[1203:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:08:41.333 HelloWorld[1203:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:08:41.333 HelloWorld[1203:70b] token validity: false
+2014-09-07 14:08:41.353 HelloWorld[1203:70b] THREAD WARNING: ['InAppBrowser'] took '19.280029' ms. Plugin should use a background thread.
+2014-09-07 14:13:57.717 HelloWorld[2308:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:13:57.725 HelloWorld[2308:70b] Unlimited access to network resources
+2014-09-07 14:13:57.728 HelloWorld[2308:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:13:57.839 HelloWorld[2308:70b] Resetting plugins due to page load.
+2014-09-07 14:13:57.928 HelloWorld[2308:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:13:57.968 HelloWorld[2308:70b] Received Event: deviceready
+2014-09-07 14:13:57.968 HelloWorld[2308:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:13:58.139 HelloWorld[2308:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:13:58.139 HelloWorld[2308:70b] token validity: false
+2014-09-07 14:13:58.167 HelloWorld[2308:70b] THREAD WARNING: ['InAppBrowser'] took '27.111084' ms. Plugin should use a background thread.
+2014-09-07 14:16:43.581 HelloWorld[2912:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:16:43.587 HelloWorld[2912:70b] Unlimited access to network resources
+2014-09-07 14:16:43.590 HelloWorld[2912:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:16:43.691 HelloWorld[2912:70b] Resetting plugins due to page load.
+2014-09-07 14:16:43.801 HelloWorld[2912:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:16:43.849 HelloWorld[2912:70b] Received Event: deviceready
+2014-09-07 14:16:43.850 HelloWorld[2912:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:16:44.053 HelloWorld[2912:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:16:44.053 HelloWorld[2912:70b] token validity: false
+2014-09-07 14:16:44.079 HelloWorld[2912:70b] THREAD WARNING: ['InAppBrowser'] took '25.165039' ms. Plugin should use a background thread.
+2014-09-07 14:17:00.124 HelloWorld[2912:70b] {"access_token":"CAADnmd7XOVsBABAARZCZB2oJtmHNC2iWCDOcfqfm8gPBi8IvNC3A4sZCkdn3mlGmJnZA1f5I17sMlSbnT3HqMCHRTBSSTK2KwweoAy7ZC2laZA4jF9mrWJsS2bwna3WFWXet9DYaafkqZBDJ4jLkSmWEaqykFZAlYxZBrLbP4CCIZCaPdZCYZACyqfznNzdiSIciZAyEZD","expires_in":5103626}
+2014-09-07 14:17:00.133 HelloWorld[2912:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 14:17:00.209 HelloWorld[2912:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 14:17:00.209 HelloWorld[2912:70b] token validity: true
+2014-09-07 14:17:00.287 HelloWorld[2912:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 14:17:00.367 HelloWorld[2912:70b] friends:
+2014-09-07 14:17:00.367 HelloWorld[2912:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBABAARZCZB2oJtmHNC2iWCDOcfqfm8gPBi8IvNC3A4sZCkdn3mlGmJnZA1f5I17sMlSbnT3HqMCHRTBSSTK2KwweoAy7ZC2laZA4jF9mrWJsS2bwna3WFWXet9DYaafkqZBDJ4jLkSmWEaqykFZAlYxZBrLbP4CCIZCaPdZCYZACyqfznNzdiSIciZAyEZD&limit=5000&offset=5000&__after_id=enc_AewgnyTRz3MA2_myXw-Kc4XkRKo_vCKQgYLpPEYdkG9NTdjcaWq4hAvYPOhXYNAqyduO8Kc2ylOpEY7je-dQ4P6e"},"summary":{"total_count":4}}
+2014-09-07 14:24:49.622 HelloWorld[4451:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:24:49.629 HelloWorld[4451:70b] Unlimited access to network resources
+2014-09-07 14:24:49.631 HelloWorld[4451:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:24:49.747 HelloWorld[4451:70b] Resetting plugins due to page load.
+2014-09-07 14:24:49.841 HelloWorld[4451:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:24:49.894 HelloWorld[4451:70b] Received Event: deviceready
+2014-09-07 14:24:49.894 HelloWorld[4451:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:24:50.119 HelloWorld[4451:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:24:50.120 HelloWorld[4451:70b] token validity: false
+2014-09-07 14:24:50.139 HelloWorld[4451:70b] THREAD WARNING: ['InAppBrowser'] took '19.287109' ms. Plugin should use a background thread.
+2014-09-07 14:25:01.951 HelloWorld[4451:70b] {"access_token":"CAADnmd7XOVsBAE4UvMQqaS7F5427xprhs1eLcwQbZACGfbACT67njFBYPsDtfSORDggF8iZAJflstUmFsQykVzyQMieMfns5qd3tmSvx92gI66HUK66mZBS0UbxGyKWpla5QzcnztbnGuyiZCB8kGPxXMXfTztZBw8mPmgzqkATiFHb7v3ZCyLAqCEuQnCm6K0Dbb2yjf2TAE6uTCVbZB4V","expires_in":5103144}
+2014-09-07 14:25:01.956 HelloWorld[4451:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 14:25:02.022 HelloWorld[4451:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 14:25:02.022 HelloWorld[4451:70b] token validity: true
+2014-09-07 14:25:02.093 HelloWorld[4451:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 14:25:02.132 HelloWorld[4451:70b] friends:
+2014-09-07 14:25:53.142 HelloWorld[4810:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:25:53.151 HelloWorld[4810:70b] Unlimited access to network resources
+2014-09-07 14:25:53.153 HelloWorld[4810:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:25:53.253 HelloWorld[4810:70b] Resetting plugins due to page load.
+2014-09-07 14:25:53.343 HelloWorld[4810:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:25:53.383 HelloWorld[4810:70b] Received Event: deviceready
+2014-09-07 14:25:53.383 HelloWorld[4810:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:25:53.578 HelloWorld[4810:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:25:53.578 HelloWorld[4810:70b] token validity: false
+2014-09-07 14:25:53.598 HelloWorld[4810:70b] THREAD WARNING: ['InAppBrowser'] took '19.957031' ms. Plugin should use a background thread.
+2014-09-07 14:25:54.492 HelloWorld[4810:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-07 14:31:12.361 HelloWorld[799:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:31:12.394 HelloWorld[799:70b] Unlimited access to network resources
+2014-09-07 14:31:12.398 HelloWorld[799:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:31:12.716 HelloWorld[799:70b] Resetting plugins due to page load.
+2014-09-07 14:31:12.869 HelloWorld[799:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:31:12.915 HelloWorld[799:70b] Received Event: deviceready
+2014-09-07 14:31:12.915 HelloWorld[799:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:31:13.075 HelloWorld[799:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:31:13.075 HelloWorld[799:70b] token validity: false
+2014-09-07 14:31:13.120 HelloWorld[799:70b] THREAD WARNING: ['InAppBrowser'] took '44.401855' ms. Plugin should use a background thread.
+2014-09-07 14:31:30.517 HelloWorld[799:70b] {"access_token":"CAADnmd7XOVsBALnDWTeNEHe2ag3ZBWt5pseSe3ZBfCjqL2ABVZBpzKB0nBS7fgZBNKSZBAEgVyZAUtTphdJYkOpzKUaHI6oZAAGFTvTloZCGzIUumCERoD5VQi8GuZCnxMXZAa7IkZCUZAAymox4uZAf87fzwaNxkjUtfEtVGIcpDas2tDEt31wQpdtwuQ9ObIkq3Ybo9xZBjtSOs1vls4IZChSqqa4","expires_in":5102756}
+2014-09-07 14:31:30.528 HelloWorld[799:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 14:31:30.592 HelloWorld[799:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 14:31:30.592 HelloWorld[799:70b] token validity: true
+2014-09-07 14:31:30.664 HelloWorld[799:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 14:31:30.739 HelloWorld[799:70b] friends:
+2014-09-07 14:33:04.918 HelloWorld[1330:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:33:04.926 HelloWorld[1330:70b] Unlimited access to network resources
+2014-09-07 14:33:04.929 HelloWorld[1330:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:33:05.039 HelloWorld[1330:70b] Resetting plugins due to page load.
+2014-09-07 14:33:05.146 HelloWorld[1330:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:33:05.182 HelloWorld[1330:70b] Received Event: deviceready
+2014-09-07 14:33:05.182 HelloWorld[1330:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:33:09.473 HelloWorld[1330:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:33:09.474 HelloWorld[1330:70b] token validity: false
+2014-09-07 14:33:09.493 HelloWorld[1330:70b] THREAD WARNING: ['InAppBrowser'] took '19.411865' ms. Plugin should use a background thread.
+2014-09-07 14:33:20.021 HelloWorld[1330:70b] {"access_token":"CAADnmd7XOVsBANt6eqRD2E7lmnyVzeMo1uStZAcPt7ZBaDumsIuqCj9vbDKZCpVPz0hIUXcfnNiLkSsuCOtYJRS4lWjyM5K5m9cPIBXApZAE77ZBoePUZBcK8W7388umKo97NJjmIsXqZCxG2v0MKCYmabdv0kDpJyUm3n5bgImYdr8XjTZB5kqqwZB92ijdeOh99Qlke3ZBqSAqst4sd496Lp","expires_in":5102646}
+2014-09-07 14:33:20.031 HelloWorld[1330:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 14:33:20.094 HelloWorld[1330:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 14:33:20.094 HelloWorld[1330:70b] token validity: true
+2014-09-07 14:33:20.165 HelloWorld[1330:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 14:33:20.208 HelloWorld[1330:70b] friends:
+2014-09-07 14:33:20.208 HelloWorld[1330:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBANt6eqRD2E7lmnyVzeMo1uStZAcPt7ZBaDumsIuqCj9vbDKZCpVPz0hIUXcfnNiLkSsuCOtYJRS4lWjyM5K5m9cPIBXApZAE77ZBoePUZBcK8W7388umKo97NJjmIsXqZCxG2v0MKCYmabdv0kDpJyUm3n5bgImYdr8XjTZB5kqqwZB92ijdeOh99Qlke3ZBqSAqst4sd496Lp&limit=5000&offset=5000&__after_id=enc_AexKm8z_mZ3uUOqzzjg1DVF8cpT4mwLOIaVqdn3Uh6yeccI6Eo4O9UWhUwbn7rViZAyXhnOB0allWaVqQlnsrtb9"},"summary":{"total_count":4}}
+2014-09-07 14:33:20.209 HelloWorld[1330:70b] ["test six","test five","test four","test two"]
+2014-09-07 14:34:02.001 HelloWorld[1631:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 14:34:02.007 HelloWorld[1631:70b] Unlimited access to network resources
+2014-09-07 14:34:02.010 HelloWorld[1631:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 14:34:02.126 HelloWorld[1631:70b] Resetting plugins due to page load.
+2014-09-07 14:34:02.216 HelloWorld[1631:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 14:34:02.262 HelloWorld[1631:70b] Received Event: deviceready
+2014-09-07 14:34:02.263 HelloWorld[1631:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 14:34:02.481 HelloWorld[1631:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 14:34:02.481 HelloWorld[1631:70b] token validity: false
+2014-09-07 14:34:02.501 HelloWorld[1631:70b] THREAD WARNING: ['InAppBrowser'] took '19.876953' ms. Plugin should use a background thread.
+2014-09-07 14:34:19.830 HelloWorld[1631:70b] {"access_token":"CAADnmd7XOVsBAJ3mU5liNMSgNSjsmAKmH5lmm86eohmY1vmHaQDMhE3fgUWA2GaX8AfbzGAZBsvk5ACRMpNoyZBx2xG2VpstkVarYndbYMCZB9rwZAlHmDKvUxPFNes54Kxr8YuoymLbvnXhXj1xLWLYOvIjVvSzKknCIE8wjEvpZCnSBvM2qrzmtMk2PkCbqRb5RB0ihOt1tfId4dKzy","expires_in":5102586}
+2014-09-07 14:34:19.841 HelloWorld[1631:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 14:34:19.906 HelloWorld[1631:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 14:34:19.907 HelloWorld[1631:70b] token validity: true
+2014-09-07 14:34:19.983 HelloWorld[1631:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 14:34:20.027 HelloWorld[1631:70b] friends:
+2014-09-07 14:34:20.028 HelloWorld[1631:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAJ3mU5liNMSgNSjsmAKmH5lmm86eohmY1vmHaQDMhE3fgUWA2GaX8AfbzGAZBsvk5ACRMpNoyZBx2xG2VpstkVarYndbYMCZB9rwZAlHmDKvUxPFNes54Kxr8YuoymLbvnXhXj1xLWLYOvIjVvSzKknCIE8wjEvpZCnSBvM2qrzmtMk2PkCbqRb5RB0ihOt1tfId4dKzy&limit=5000&offset=5000&__after_id=enc_AezHh8eg6FeA-ePatzBBrHa4TXQM9YngcXg-aGIJTIz-vikVuDEVUTlBufRbaT8YCgRkdPXZ4cmt6FXTR8EsKE2U"},"summary":{"total_count":4}}
+2014-09-07 14:34:20.028 HelloWorld[1631:70b] ["test six","test five","test four","test two"]
+2014-09-07 14:34:20.028 HelloWorld[1631:70b] {"test six":"329894773850929","test five":"1524505514430843","test four":"1526480980916495","test two":"1397703657145861"}
