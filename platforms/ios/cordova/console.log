@@ -1903,3 +1903,425 @@ You could find it at the following address https://developer.apple.com/icloud/do
 2014-09-07 14:34:20.028 HelloWorld[1631:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAJ3mU5liNMSgNSjsmAKmH5lmm86eohmY1vmHaQDMhE3fgUWA2GaX8AfbzGAZBsvk5ACRMpNoyZBx2xG2VpstkVarYndbYMCZB9rwZAlHmDKvUxPFNes54Kxr8YuoymLbvnXhXj1xLWLYOvIjVvSzKknCIE8wjEvpZCnSBvM2qrzmtMk2PkCbqRb5RB0ihOt1tfId4dKzy&limit=5000&offset=5000&__after_id=enc_AezHh8eg6FeA-ePatzBBrHa4TXQM9YngcXg-aGIJTIz-vikVuDEVUTlBufRbaT8YCgRkdPXZ4cmt6FXTR8EsKE2U"},"summary":{"total_count":4}}
 2014-09-07 14:34:20.028 HelloWorld[1631:70b] ["test six","test five","test four","test two"]
 2014-09-07 14:34:20.028 HelloWorld[1631:70b] {"test six":"329894773850929","test five":"1524505514430843","test four":"1526480980916495","test two":"1397703657145861"}
+2014-09-07 20:41:49.388 HelloWorld[29978:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 20:41:49.420 HelloWorld[29978:70b] Unlimited access to network resources
+2014-09-07 20:41:49.424 HelloWorld[29978:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 20:41:49.751 HelloWorld[29978:70b] Resetting plugins due to page load.
+2014-09-07 20:41:49.899 HelloWorld[29978:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 20:41:49.939 HelloWorld[29978:70b] Received Event: deviceready
+2014-09-07 20:41:49.940 HelloWorld[29978:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 20:41:54.687 HelloWorld[29978:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 20:41:54.688 HelloWorld[29978:70b] token validity: false
+2014-09-07 20:41:54.740 HelloWorld[29978:70b] THREAD WARNING: ['InAppBrowser'] took '52.493896' ms. Plugin should use a background thread.
+2014-09-07 20:44:56.285 HelloWorld[31381:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 20:44:56.294 HelloWorld[31381:70b] Unlimited access to network resources
+2014-09-07 20:44:56.296 HelloWorld[31381:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 20:44:56.402 HelloWorld[31381:70b] Resetting plugins due to page load.
+2014-09-07 20:44:56.481 HelloWorld[31381:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-09-07 20:46:53.089 HelloWorld[32304:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 20:46:53.095 HelloWorld[32304:70b] Unlimited access to network resources
+2014-09-07 20:46:53.098 HelloWorld[32304:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 20:46:53.200 HelloWorld[32304:70b] Resetting plugins due to page load.
+2014-09-07 20:46:53.299 HelloWorld[32304:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 20:46:53.348 HelloWorld[32304:70b] Received Event: deviceready
+2014-09-07 20:46:53.348 HelloWorld[32304:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 20:47:06.459 HelloWorld[32304:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 20:47:06.459 HelloWorld[32304:70b] token validity: false
+2014-09-07 20:47:06.478 HelloWorld[32304:70b] THREAD WARNING: ['InAppBrowser'] took '18.381836' ms. Plugin should use a background thread.
+2014-09-07 20:47:11.339 HelloWorld[32304:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-07 20:47:25.180 HelloWorld[32304:70b] {"access_token":"CAADnmd7XOVsBAAYVNJw4ZA7KHoBW7S6k9XCEDXG5xISqlDSnAlzJDCAejfozfW9rQP6ZBcoH1UTm2We3h9r8XYXxcOP6N96jPBSfccLAnJndbc2P8MMhNNTZB1DGZAboVdNRrkKsitaQIe6gW7vBJSghKI0XPTSe0PCgicU2TafJu7TdJJtpPIUIybk2aJ3xnbQIWBZCdwirAX17tixum","expires_in":5183999}
+2014-09-07 20:47:25.190 HelloWorld[32304:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 20:47:25.384 HelloWorld[32304:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 20:47:25.384 HelloWorld[32304:70b] token validity: true
+2014-09-07 20:47:25.505 HelloWorld[32304:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 20:47:25.662 HelloWorld[32304:70b] friends:
+2014-09-07 20:47:25.662 HelloWorld[32304:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAAYVNJw4ZA7KHoBW7S6k9XCEDXG5xISqlDSnAlzJDCAejfozfW9rQP6ZBcoH1UTm2We3h9r8XYXxcOP6N96jPBSfccLAnJndbc2P8MMhNNTZB1DGZAboVdNRrkKsitaQIe6gW7vBJSghKI0XPTSe0PCgicU2TafJu7TdJJtpPIUIybk2aJ3xnbQIWBZCdwirAX17tixum&limit=5000&offset=5000&__after_id=enc_AeyvH_O8M0A3jZU_63jYq5OU1JAY2yAQM1W8oXyqqHr6-WRvpiDdYk8Q6qV4manopfpDSXdyKUpFLK6jCC7FeiT9"},"summary":{"total_count":4}}
+2014-09-07 20:47:25.662 HelloWorld[32304:70b] ["test six","test five","test four","test two"]
+2014-09-07 20:47:25.663 HelloWorld[32304:70b] {"test six":"329894773850929","test five":"1524505514430843","test four":"1526480980916495","test two":"1397703657145861"}
+2014-09-07 20:48:17.494 HelloWorld[33048:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 20:48:17.500 HelloWorld[33048:70b] Unlimited access to network resources
+2014-09-07 20:48:17.503 HelloWorld[33048:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 20:48:17.596 HelloWorld[33048:70b] Resetting plugins due to page load.
+2014-09-07 20:48:17.696 HelloWorld[33048:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 20:48:17.731 HelloWorld[33048:70b] Received Event: deviceready
+2014-09-07 20:48:17.732 HelloWorld[33048:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 20:48:18.012 HelloWorld[33048:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 20:48:18.012 HelloWorld[33048:70b] token validity: false
+2014-09-07 20:48:18.033 HelloWorld[33048:70b] THREAD WARNING: ['InAppBrowser'] took '20.502930' ms. Plugin should use a background thread.
+2014-09-07 20:48:31.975 HelloWorld[33048:70b] {"access_token":"CAADnmd7XOVsBAF8sHO5Azbco8OF8eElmOTUp9ZCS4gzAbZBhEXbgYTmcgZCv5Co1wYziAcUQZAqE0suYTQ92kmhkJRFo1FDRMnso5EzZBOWKHWZAYFWQvtV1r27ViQZCHLegxWUiZAnvh9DbUy9dyy910TfkyNLZCHFmOZC6PgeYU41yWWS4CPWfMdG8ZAOjZAMxZBOAXZCXj4q1r7WVvuG46zV4KP","expires_in":5183933}
+2014-09-07 20:48:31.985 HelloWorld[33048:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 20:48:32.174 HelloWorld[33048:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 20:48:32.175 HelloWorld[33048:70b] token validity: true
+2014-09-07 20:48:32.315 HelloWorld[33048:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 20:48:32.790 HelloWorld[33048:70b] friends:
+2014-09-07 20:48:32.791 HelloWorld[33048:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAF8sHO5Azbco8OF8eElmOTUp9ZCS4gzAbZBhEXbgYTmcgZCv5Co1wYziAcUQZAqE0suYTQ92kmhkJRFo1FDRMnso5EzZBOWKHWZAYFWQvtV1r27ViQZCHLegxWUiZAnvh9DbUy9dyy910TfkyNLZCHFmOZC6PgeYU41yWWS4CPWfMdG8ZAOjZAMxZBOAXZCXj4q1r7WVvuG46zV4KP&limit=5000&offset=5000&__after_id=enc_AezKehvl9IXvzKYjdbKQT3G15k2fxcZfExqOtID8O2ZYWQN8wQVxe0faiwMNvR3qHpNzbfYIKuXCgPypZ6R09qld"},"summary":{"total_count":4}}
+2014-09-07 20:48:32.791 HelloWorld[33048:70b] ["test six","test five","test four","test two"]
+2014-09-07 20:48:32.791 HelloWorld[33048:70b] {"test six":"329894773850929","test five":"1524505514430843","test four":"1526480980916495","test two":"1397703657145861"}
+2014-09-07 20:49:50.111 HelloWorld[33865:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 20:49:50.117 HelloWorld[33865:70b] Unlimited access to network resources
+2014-09-07 20:49:50.120 HelloWorld[33865:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 20:49:50.223 HelloWorld[33865:70b] Resetting plugins due to page load.
+2014-09-07 20:49:50.308 HelloWorld[33865:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 20:49:50.365 HelloWorld[33865:70b] Received Event: deviceready
+2014-09-07 20:49:50.366 HelloWorld[33865:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 20:49:55.463 HelloWorld[33865:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 20:49:55.464 HelloWorld[33865:70b] token validity: false
+2014-09-07 20:49:55.481 HelloWorld[33865:70b] THREAD WARNING: ['InAppBrowser'] took '17.291260' ms. Plugin should use a background thread.
+2014-09-07 20:49:57.371 HelloWorld[33865:70b] webView:didFailLoadWithError - 102: Frame load interrupted
+2014-09-07 20:50:12.497 HelloWorld[34126:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 20:50:12.507 HelloWorld[34126:70b] Unlimited access to network resources
+2014-09-07 20:50:12.510 HelloWorld[34126:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 20:50:12.616 HelloWorld[34126:70b] Resetting plugins due to page load.
+2014-09-07 20:50:12.703 HelloWorld[34126:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 20:50:12.761 HelloWorld[34126:70b] Received Event: deviceready
+2014-09-07 20:50:12.762 HelloWorld[34126:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 20:50:13.294 HelloWorld[34126:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 20:50:13.294 HelloWorld[34126:70b] token validity: false
+2014-09-07 20:50:13.316 HelloWorld[34126:70b] THREAD WARNING: ['InAppBrowser'] took '20.929932' ms. Plugin should use a background thread.
+2014-09-07 20:50:41.039 HelloWorld[34126:70b] {"access_token":"CAADnmd7XOVsBAGFF0azF0eZA6VWd1q4Q3eMf4SFU2yJgMRXStm8U60ZBy1G2ixaTggrIZBvAC9olkmIxqNTD43EZCgkhmIgSXY0iGxMBfKXGdSGOu3p7P23Ocxsae4QLb5XFEfGcQtC5amexpp75tohTv18iy2nhlZAsXQotSDzbmwUcDzzl6","expires_in":5183804}
+2014-09-07 20:50:41.050 HelloWorld[34126:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 20:50:41.137 HelloWorld[34126:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 20:50:41.138 HelloWorld[34126:70b] token validity: true
+2014-09-07 20:50:41.232 HelloWorld[34126:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 20:50:41.363 HelloWorld[34126:70b] friends:
+2014-09-07 20:50:41.363 HelloWorld[34126:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAGFF0azF0eZA6VWd1q4Q3eMf4SFU2yJgMRXStm8U60ZBy1G2ixaTggrIZBvAC9olkmIxqNTD43EZCgkhmIgSXY0iGxMBfKXGdSGOu3p7P23Ocxsae4QLb5XFEfGcQtC5amexpp75tohTv18iy2nhlZAsXQotSDzbmwUcDzzl6&limit=5000&offset=5000&__after_id=enc_Aexca9j9gAcx_ImhVXKx1x7HUxoK8_qhU0NXhjln4Reew4c0ivmgkxC7aRrtyBJhiC2FkMRJ2obSs3VJj5q1xzWv"},"summary":{"total_count":4}}
+2014-09-07 20:50:41.364 HelloWorld[34126:70b] ["test six","test five","test four","test two"]
+2014-09-07 20:50:41.364 HelloWorld[34126:70b] {"test six":"329894773850929","test five":"1524505514430843","test four":"1526480980916495","test two":"1397703657145861"}
+2014-09-07 20:50:57.288 HelloWorld[34126:70b] Resetting plugins due to page load.
+2014-09-07 20:50:57.288 HelloWorld[34126:70b] IAB.close() called but it was already closed.
+2014-09-07 20:50:57.752 HelloWorld[34126:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/plain.html
+2014-09-07 20:58:10.192 HelloWorld[37950:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 20:58:10.202 HelloWorld[37950:70b] Unlimited access to network resources
+2014-09-07 20:58:10.205 HelloWorld[37950:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 20:58:10.306 HelloWorld[37950:70b] Resetting plugins due to page load.
+2014-09-07 20:58:10.382 HelloWorld[37950:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 20:59:52.843 HelloWorld[39310:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 20:59:52.849 HelloWorld[39310:70b] Unlimited access to network resources
+2014-09-07 20:59:52.852 HelloWorld[39310:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 20:59:52.965 HelloWorld[39310:70b] Resetting plugins due to page load.
+2014-09-07 20:59:53.039 HelloWorld[39310:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 20:59:53.093 HelloWorld[39310:70b] Received Event: deviceready
+2014-09-07 20:59:53.093 HelloWorld[39310:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 20:59:53.351 HelloWorld[39310:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 20:59:53.351 HelloWorld[39310:70b] token validity: false
+2014-09-07 20:59:53.372 HelloWorld[39310:70b] THREAD WARNING: ['InAppBrowser'] took '20.783936' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2014-09-07 21:00:41.945 HelloWorld[39974:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 21:00:41.955 HelloWorld[39974:70b] Unlimited access to network resources
+2014-09-07 21:00:41.958 HelloWorld[39974:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 21:00:42.063 HelloWorld[39974:70b] Resetting plugins due to page load.
+2014-09-07 21:00:42.148 HelloWorld[39974:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 21:00:42.220 HelloWorld[39974:70b] Received Event: deviceready
+2014-09-07 21:00:42.220 HelloWorld[39974:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 21:00:42.535 HelloWorld[39974:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 21:00:42.535 HelloWorld[39974:70b] token validity: false
+2014-09-07 21:00:42.556 HelloWorld[39974:70b] THREAD WARNING: ['InAppBrowser'] took '20.779785' ms. Plugin should use a background thread.
+2014-09-07 21:00:52.545 HelloWorld[39974:70b] {"access_token":"CAADnmd7XOVsBAHZAZB2w7y4PHwxRgmgBBa12plcLhAVatacD8HmM1F0xYVZB3tdv3Q2ZAztBjhSoAFRRT80vUJZCIgy0rlyYrZAfBVD6e3I3GX2EvCkRsKdyZAMqa15oY8g3YMOu6zaLrZANd57Kes1Cs6iuloow5ZBESGtGumYkekvpFsyZBkB2Rj5vkH3txDdPIPFyYZAHYQW6owyerCA3Gz3","expires_in":5183192}
+2014-09-07 21:00:52.551 HelloWorld[39974:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 21:00:52.639 HelloWorld[39974:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 21:00:52.639 HelloWorld[39974:70b] token validity: true
+2014-09-07 21:00:52.725 HelloWorld[39974:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 21:00:52.816 HelloWorld[39974:70b] friends:
+2014-09-07 21:00:52.816 HelloWorld[39974:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAHZAZB2w7y4PHwxRgmgBBa12plcLhAVatacD8HmM1F0xYVZB3tdv3Q2ZAztBjhSoAFRRT80vUJZCIgy0rlyYrZAfBVD6e3I3GX2EvCkRsKdyZAMqa15oY8g3YMOu6zaLrZANd57Kes1Cs6iuloow5ZBESGtGumYkekvpFsyZBkB2Rj5vkH3txDdPIPFyYZAHYQW6owyerCA3Gz3&limit=5000&offset=5000&__after_id=enc_AexJ9KVcn5XWUaEcI2oNkDou-Hlv8m9m2qzO2Ikc8f8VkKhlnYcJrll69tIEFhLuVYVQnviG5v3en_-2EgE3EuU3"},"summary":{"total_count":4}}
+2014-09-07 21:00:52.816 HelloWorld[39974:70b] ["test six","test five","test four","test two"]
+2014-09-07 21:00:52.817 HelloWorld[39974:70b] {"test six":"329894773850929","test five":"1524505514430843","test four":"1526480980916495","test two":"1397703657145861"}
+2014-09-07 21:02:57.426 HelloWorld[41051:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-07 21:02:57.432 HelloWorld[41051:70b] Unlimited access to network resources
+2014-09-07 21:02:57.435 HelloWorld[41051:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-07 21:02:57.541 HelloWorld[41051:70b] Resetting plugins due to page load.
+2014-09-07 21:02:57.622 HelloWorld[41051:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-07 21:02:57.692 HelloWorld[41051:70b] Received Event: deviceready
+2014-09-07 21:02:57.693 HelloWorld[41051:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-07 21:03:02.151 HelloWorld[41051:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-07 21:03:02.152 HelloWorld[41051:70b] token validity: false
+2014-09-07 21:03:02.171 HelloWorld[41051:70b] THREAD WARNING: ['InAppBrowser'] took '18.879150' ms. Plugin should use a background thread.
+2014-09-07 21:03:03.387 HelloWorld[41051:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-07 21:03:16.751 HelloWorld[41051:70b] {"access_token":"CAADnmd7XOVsBACz2m5Ak3tA7mYWgt9b71Lxcz9xkhqoYIdmFV8j3nt0dZBbpKJY87xY8mGji2QUHW28df283w2IegNf77FEsDGn4PArG5lECSrNqyvMMIntgTkrRwFTSsYgJp7cFCOCvD71tTYsfrnyoHbZCKDiHt6l2KDtG5otmAulcXT","expires_in":5183048}
+2014-09-07 21:03:16.761 HelloWorld[41051:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-07 21:03:16.850 HelloWorld[41051:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 21:03:16.851 HelloWorld[41051:70b] token validity: true
+2014-09-07 21:03:16.941 HelloWorld[41051:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-07 21:03:17.033 HelloWorld[41051:70b] friends:
+2014-09-07 21:03:17.033 HelloWorld[41051:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBACz2m5Ak3tA7mYWgt9b71Lxcz9xkhqoYIdmFV8j3nt0dZBbpKJY87xY8mGji2QUHW28df283w2IegNf77FEsDGn4PArG5lECSrNqyvMMIntgTkrRwFTSsYgJp7cFCOCvD71tTYsfrnyoHbZCKDiHt6l2KDtG5otmAulcXT&limit=5000&offset=5000&__after_id=enc_AezogJfYVsH_NfUdYmgXaO9sFcfUxxmst0RLdlJNGHHqZnjJ-OA-UrMrngZTiFbpY52h8MeBjytBF_kYTcawKqrM"},"summary":{"total_count":4}}
+2014-09-07 21:03:17.033 HelloWorld[41051:70b] ["test six","test five","test four","test two"]
+2014-09-07 21:03:17.033 HelloWorld[41051:70b] {"test six":"329894773850929","test five":"1524505514430843","test four":"1526480980916495","test two":"1397703657145861"}
+Terminating in response to SpringBoard's termination.
+2014-09-08 14:34:08.798 HelloWorld[14453:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 14:34:08.809 HelloWorld[14453:70b] Unlimited access to network resources
+2014-09-08 14:34:08.812 HelloWorld[14453:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-08 14:34:08.941 HelloWorld[14453:70b] Resetting plugins due to page load.
+2014-09-08 14:34:09.027 HelloWorld[14453:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-08 14:34:09.096 HelloWorld[14453:70b] Received Event: deviceready
+2014-09-08 14:34:09.097 HelloWorld[14453:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 14:34:09.278 HelloWorld[14453:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 14:34:09.279 HelloWorld[14453:70b] token validity: false
+2014-09-08 14:34:09.321 HelloWorld[14453:70b] THREAD WARNING: ['InAppBrowser'] took '42.517090' ms. Plugin should use a background thread.
+2014-09-08 14:34:10.330 HelloWorld[14453:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-08 14:34:33.306 HelloWorld[14453:70b] {"access_token":"CAADnmd7XOVsBAKLgAQfI98ZAthKgiuG8TCgzM45TPuVpfzLyIPrzJ6TNFsMAUPbMoSr67j1TjVCw1rycwX1lUxmV13gqTBvsLtwwiCs3LltZAdVQZArju3EfTeZAAJpKjzIfwwDNVVGqSFwIiIZAZCPVbDuU76yFZAxkA3AAYWCxlKJMfxhKRp2vhLec7xIaiaZClHiiqtZA8KowIoHIBn5iu","expires_in":5119971}
+2014-09-08 14:34:33.316 HelloWorld[14453:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-08 14:34:33.383 HelloWorld[14453:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-08 14:34:33.383 HelloWorld[14453:70b] token validity: true
+2014-09-08 14:34:33.444 HelloWorld[14453:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-08 14:34:33.512 HelloWorld[14453:70b] friends:
+2014-09-08 14:34:33.513 HelloWorld[14453:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAKLgAQfI98ZAthKgiuG8TCgzM45TPuVpfzLyIPrzJ6TNFsMAUPbMoSr67j1TjVCw1rycwX1lUxmV13gqTBvsLtwwiCs3LltZAdVQZArju3EfTeZAAJpKjzIfwwDNVVGqSFwIiIZAZCPVbDuU76yFZAxkA3AAYWCxlKJMfxhKRp2vhLec7xIaiaZClHiiqtZA8KowIoHIBn5iu&limit=5000&offset=5000&__after_id=enc_AewKInN7SJl46KB1tTl6L_jjNtXSFHxcsrogJs60-SYdA8qAAPGHkgZLSti3Up4R4_I2nvNno64_QyUDVfTyZA_T"},"summary":{"total_count":4}}
+2014-09-08 14:34:33.513 HelloWorld[14453:70b] ["test six","test five","test four","test two"]
+2014-09-08 14:34:33.513 HelloWorld[14453:70b] {"test six":"329894773850929","test five":"1524505514430843","test four":"1526480980916495","test two":"1397703657145861"}
+2014-09-08 14:49:56.225 HelloWorld[21740:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 14:49:56.231 HelloWorld[21740:70b] Unlimited access to network resources
+2014-09-08 14:49:56.234 HelloWorld[21740:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-08 14:49:56.343 HelloWorld[21740:70b] Resetting plugins due to page load.
+2014-09-08 14:49:56.424 HelloWorld[21740:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-08 14:49:56.505 HelloWorld[21740:70b] Received Event: deviceready
+2014-09-08 14:49:56.505 HelloWorld[21740:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 14:49:56.705 HelloWorld[21740:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 14:49:56.705 HelloWorld[21740:70b] token validity: false
+2014-09-08 14:49:56.727 HelloWorld[21740:70b] THREAD WARNING: ['InAppBrowser'] took '21.370361' ms. Plugin should use a background thread.
+2014-09-08 14:49:59.402 HelloWorld[21740:70b] Resetting plugins due to page load.
+2014-09-08 14:49:59.403 HelloWorld[21740:70b] IAB.close() called but it was already closed.
+2014-09-08 14:49:59.483 HelloWorld[21740:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/plain.html
+2014-09-08 14:50:38.025 HelloWorld[22219:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 14:50:38.033 HelloWorld[22219:70b] Unlimited access to network resources
+2014-09-08 14:50:38.036 HelloWorld[22219:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-08 14:50:38.149 HelloWorld[22219:70b] Resetting plugins due to page load.
+2014-09-08 14:50:38.243 HelloWorld[22219:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-08 14:50:38.323 HelloWorld[22219:70b] Received Event: deviceready
+2014-09-08 14:50:38.323 HelloWorld[22219:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 14:50:38.468 HelloWorld[22219:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 14:50:38.469 HelloWorld[22219:70b] token validity: false
+2014-09-08 14:50:38.495 HelloWorld[22219:70b] THREAD WARNING: ['InAppBrowser'] took '25.962891' ms. Plugin should use a background thread.
+2014-09-08 14:50:44.224 HelloWorld[22219:70b] Resetting plugins due to page load.
+2014-09-08 14:50:44.225 HelloWorld[22219:70b] IAB.close() called but it was already closed.
+2014-09-08 14:50:44.306 HelloWorld[22219:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/plain.html
+2014-09-08 14:53:29.379 HelloWorld[23679:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 14:53:29.387 HelloWorld[23679:70b] Unlimited access to network resources
+2014-09-08 14:53:29.400 HelloWorld[23679:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-08 14:53:29.563 HelloWorld[23679:70b] Resetting plugins due to page load.
+2014-09-08 14:53:29.658 HelloWorld[23679:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-08 14:53:29.770 HelloWorld[23679:70b] Received Event: deviceready
+2014-09-08 14:53:29.771 HelloWorld[23679:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 14:53:29.905 HelloWorld[23679:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 14:53:29.905 HelloWorld[23679:70b] token validity: false
+2014-09-08 14:53:29.931 HelloWorld[23679:70b] THREAD WARNING: ['InAppBrowser'] took '25.392090' ms. Plugin should use a background thread.
+2014-09-08 14:53:38.543 HelloWorld[23679:70b] Resetting plugins due to page load.
+2014-09-08 14:53:38.543 HelloWorld[23679:70b] IAB.close() called but it was already closed.
+2014-09-08 14:53:38.623 HelloWorld[23679:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/plain.html
+2014-09-08 14:57:36.867 HelloWorld[23679:70b] Received memory warning.
+2014-09-08 15:00:24.500 HelloWorld[26980:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 15:00:24.509 HelloWorld[26980:70b] Unlimited access to network resources
+2014-09-08 15:00:24.512 HelloWorld[26980:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-08 15:00:24.624 HelloWorld[26980:70b] Resetting plugins due to page load.
+2014-09-08 15:00:24.814 HelloWorld[26980:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-08 15:00:25.062 HelloWorld[26980:70b] THREAD WARNING: ['InAppBrowser'] took '20.209961' ms. Plugin should use a background thread.
+2014-09-08 15:03:01.229 HelloWorld[28688:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 15:03:01.241 HelloWorld[28688:70b] Unlimited access to network resources
+2014-09-08 15:03:01.244 HelloWorld[28688:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-08 15:03:01.381 HelloWorld[28688:70b] Resetting plugins due to page load.
+2014-09-08 15:03:01.476 HelloWorld[28688:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-08 15:03:01.552 HelloWorld[28688:70b] Received Event: deviceready
+2014-09-08 15:03:01.552 HelloWorld[28688:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:03:01.702 HelloWorld[28688:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:03:01.702 HelloWorld[28688:70b] token validity: false
+2014-09-08 15:03:01.729 HelloWorld[28688:70b] THREAD WARNING: ['InAppBrowser'] took '26.625000' ms. Plugin should use a background thread.
+2014-09-08 15:04:38.967 HelloWorld[30080:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 15:04:38.976 HelloWorld[30080:70b] Unlimited access to network resources
+2014-09-08 15:04:38.979 HelloWorld[30080:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-08 15:04:39.106 HelloWorld[30080:70b] Resetting plugins due to page load.
+2014-09-08 15:04:39.251 HelloWorld[30080:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-08 15:04:39.347 HelloWorld[30080:70b] Received Event: deviceready
+2014-09-08 15:04:39.348 HelloWorld[30080:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:04:39.575 HelloWorld[30080:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:04:39.575 HelloWorld[30080:70b] token validity: false
+2014-09-08 15:04:39.595 HelloWorld[30080:70b] THREAD WARNING: ['InAppBrowser'] took '19.267822' ms. Plugin should use a background thread.
+2014-09-08 15:04:45.753 HelloWorld[30080:70b] Resetting plugins due to page load.
+2014-09-08 15:04:45.753 HelloWorld[30080:70b] IAB.close() called but it was already closed.
+2014-09-08 15:04:45.774 HelloWorld[30080:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/plain.html
+2014-09-08 15:04:45.796 HelloWorld[30080:70b] Received Event: deviceready
+2014-09-08 15:04:45.796 HelloWorld[30080:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:04:45.895 HelloWorld[30080:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:04:45.895 HelloWorld[30080:70b] token validity: false
+2014-09-08 15:04:54.157 HelloWorld[30080:70b] Resetting plugins due to page load.
+2014-09-08 15:04:54.158 HelloWorld[30080:70b] IAB.close() called but it was already closed.
+2014-09-08 15:04:54.179 HelloWorld[30080:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/plain.html
+2014-09-08 15:04:54.188 HelloWorld[30080:70b] Received Event: deviceready
+2014-09-08 15:04:54.189 HelloWorld[30080:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:04:54.271 HelloWorld[30080:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:04:54.271 HelloWorld[30080:70b] token validity: false
+2014-09-08 15:05:54.872 HelloWorld[31599:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 15:05:54.881 HelloWorld[31599:70b] Unlimited access to network resources
+2014-09-08 15:05:54.883 HelloWorld[31599:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-08 15:05:55.014 HelloWorld[31599:70b] Resetting plugins due to page load.
+2014-09-08 15:05:55.104 HelloWorld[31599:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-08 15:05:55.193 HelloWorld[31599:70b] Received Event: deviceready
+2014-09-08 15:05:55.193 HelloWorld[31599:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:05:55.402 HelloWorld[31599:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:05:55.402 HelloWorld[31599:70b] token validity: false
+2014-09-08 15:05:55.427 HelloWorld[31599:70b] THREAD WARNING: ['InAppBrowser'] took '24.067871' ms. Plugin should use a background thread.
+2014-09-08 15:05:56.367 HelloWorld[31599:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-08 15:07:39.242 HelloWorld[32797:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 15:07:39.248 HelloWorld[32797:70b] Unlimited access to network resources
+2014-09-08 15:07:39.250 HelloWorld[32797:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-08 15:07:39.355 HelloWorld[32797:70b] Resetting plugins due to page load.
+2014-09-08 15:07:39.448 HelloWorld[32797:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-08 15:07:39.521 HelloWorld[32797:70b] Received Event: deviceready
+2014-09-08 15:07:39.521 HelloWorld[32797:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:07:39.713 HelloWorld[32797:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:07:39.714 HelloWorld[32797:70b] token validity: false
+2014-09-08 15:07:39.738 HelloWorld[32797:70b] THREAD WARNING: ['InAppBrowser'] took '24.630127' ms. Plugin should use a background thread.
+2014-09-08 15:08:58.976 HelloWorld[33583:70b] Multi-tasking -> Device: YES, App: YES
+2014-09-08 15:08:58.982 HelloWorld[33583:70b] Unlimited access to network resources
+2014-09-08 15:08:58.984 HelloWorld[33583:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-08 15:08:59.093 HelloWorld[33583:70b] Resetting plugins due to page load.
+2014-09-08 15:08:59.185 HelloWorld[33583:70b] Finished load of: file:///Users/yicheng3/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/ACCB0E36-F88B-4120-9957-D62D5CD67562/HelloWorld.app/www/index.html
+2014-09-08 15:08:59.259 HelloWorld[33583:70b] Received Event: deviceready
+2014-09-08 15:08:59.259 HelloWorld[33583:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:08:59.494 HelloWorld[33583:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:08:59.494 HelloWorld[33583:70b] token validity: false
+2014-09-08 15:08:59.515 HelloWorld[33583:70b] THREAD WARNING: ['InAppBrowser'] took '20.166016' ms. Plugin should use a background thread.
+2014-09-08 15:09:01.632 HelloWorld[33583:70b] webView:didFailLoadWithError - 101: The URL can’t be shown
+2014-09-08 15:09:03.450 HelloWorld[33583:70b] Received Event: deviceready
+2014-09-08 15:09:03.450 HelloWorld[33583:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:09:03.578 HelloWorld[33583:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:09:03.578 HelloWorld[33583:70b] token validity: false
+2014-09-08 15:09:06.532 HelloWorld[33583:70b] Received Event: deviceready
+2014-09-08 15:09:06.532 HelloWorld[33583:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:09:06.624 HelloWorld[33583:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:09:06.625 HelloWorld[33583:70b] token validity: false
+2014-09-08 15:09:07.197 HelloWorld[33583:70b] webView:didFailLoadWithError - -999: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-09-08 15:09:12.263 HelloWorld[33583:70b] Received Event: deviceready
+2014-09-08 15:09:12.264 HelloWorld[33583:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:09:12.393 HelloWorld[33583:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:09:12.393 HelloWorld[33583:70b] token validity: false
+2014-09-08 15:09:47.448 HelloWorld[33583:70b] Received Event: deviceready
+2014-09-08 15:09:47.448 HelloWorld[33583:70b] {"access_token":"CAADnmd7XOVsBADgivcTOh5MbPjUbofBRQo5LZAtqZCrxZAf9bVFCIh7OEk1Q23sGnbxcPUWnmHtutX1hSMZAZCtvooRm29D0rZBfTRjCkeoRZAr5PQmh3XkfaZBuyZBVf7NzCx3IwGvyodVQrdhHTzM3ZBwwhZAwY1WjeFDCARxOvJh2hIYSjGJSJgh2POPNfr7tIWTvcmXYYiK2jG8RCSGWdQ1","expires_in":5181954}
+2014-09-08 15:09:47.632 HelloWorld[33583:70b] ERROR: {"readyState":4,"responseText":"{\n   \"error\": {\n      \"message\": \"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.\",\n      \"type\": \"OAuthException\",\n      \"code\": 190,\n      \"error_subcode\": 461\n   }\n}","responseJSON":{"error":{"message":"Error validating access token: Session is invalid. This could be because the application was uninstalled after the session was created.","type":"OAuthException","code":190,"error_subcode":461}},"status":400,"statusText":"Bad Request"}
+2014-09-08 15:09:47.633 HelloWorld[33583:70b] token validity: false
+2014-09-08 15:09:55.799 HelloWorld[33583:70b] {"access_token":"CAADnmd7XOVsBAAESevZCu1qaZCW5niuKVW5qEgY7rLoZCZCTkwCMkEiJY0ExXgRKS5iBZAcG06W0tZCZBdGfNjaZBC7Rve6gICgDvcbayH1jpQHClZC866d3nMfEDI6FqGAo4G39LTzL9rdmwlTNlLkcUNegTGLqlKZBjzJTeeocu1p4ak8Bpwy0oU","expires_in":5117849}
+2014-09-08 15:09:55.809 HelloWorld[33583:70b] webView:didFailLoadWithError - -1004: Could not connect to the server.
+2014-09-08 15:09:55.894 HelloWorld[33583:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
+2014-09-08 15:09:55.894 HelloWorld[33583:70b] token validity: true
+2014-09-08 15:09:56.017 HelloWorld[33583:70b] friends:
+2014-09-08 15:09:56.018 HelloWorld[33583:70b] {"data":[{"name":"test six","id":"329894773850929"},{"name":"test five","id":"1524505514430843"},{"name":"test four","id":"1526480980916495"},{"name":"test two","id":"1397703657145861"}],"paging":{"next":"https://graph.facebook.com/v2.0/1478032202454078/friends?access_token=CAADnmd7XOVsBAAESevZCu1qaZCW5niuKVW5qEgY7rLoZCZCTkwCMkEiJY0ExXgRKS5iBZAcG06W0tZCZBdGfNjaZBC7Rve6gICgDvcbayH1jpQHClZC866d3nMfEDI6FqGAo4G39LTzL9rdmwlTNlLkcUNegTGLqlKZBjzJTeeocu1p4ak8Bpwy0oU&limit=5000&offset=5000&__after_id=enc_AezykYQXQ_f8LUkSLS983tqsKW07TkK2ggsc3trpQGY2WWN9czZT13XBFvKyT0yivG8aYKMqcfnEuzuRPBCNplNt"},"summary":{"total_count":4}}
+2014-09-08 15:09:56.018 HelloWorld[33583:70b] ["test six","test five","test four","test two"]
+2014-09-08 15:09:56.018 HelloWorld[33583:70b] {"test six":"329894773850929","test five":"1524505514430843","test four":"1526480980916495","test two":"1397703657145861"}
+2014-09-08 15:09:56.044 HelloWorld[33583:70b] {"id":"1478032202454078","first_name":"test","gender":"female","last_name":"one","link":"https://www.facebook.com/app_scoped_user_id/1478032202454078/","locale":"en_US","name":"test one","timezone":10,"updated_time":"2014-09-06T22:13:39+0000","verified":false}
