@@ -22,50 +22,11 @@
         <meta charset="utf-8" />
         <meta name="format-detection" content="telephone=no" />
         <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
-        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <!--<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />-->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
+
         <link rel="stylesheet" type="text/css" href="css/index.css" />
         <meta name="msapplication-tap-highlight" content="no" />
-
-
-        <!--<link rel="stylesheet" href="onsen/css/onsenui.css">-->
-        <!--<link rel="stylesheet" href="onsen/css/onsen-css-components.css">-->
-        <!--<script src="onsen/js/angular/angular.js"></script>-->
-        <!--<script src="onsen/js/onsenui.js"></script>-->
-        <!--<script>-->
-            <!--ons.bootstrap();-->
-            <!--ons.ready(function() {-->
-                <!--// Add another Onsen UI element-->
-                <!--var content = document.getElementById("#my-content");-->
-                <!--content.innerHTML="<ons-button>Another Button</ons-button>";-->
-                <!--ons.compile(content);-->
-                <!--console.log("yeah right");-->
-
-            <!--});-->
-        <!--</script>-->
-
-
-
-
-
-        <title>Hello World</title>
-    </head>
-    <body>
-        <div class="app" style="visibility: hidden">
-            <h1>Apache Cordova</h1>
-            <div id="deviceready" class="blink">
-                <p class="event listening">Connecting to Device</p>
-                <p class="event received">Device is Ready</p>
-            </div>
-        </div>
-
-        <div id="the-basics">
-            <label>Matter alpha</label>
-            <input id="matter_alpha" class="typeahead" type="text" value="defaultValue" placeholder="States of USA">
-        </div>
-        <div id="the-basics2">
-            <label>Matter beta</label>
-            <input id="matter_beta" class="typeahead" type="text" value="defaultValue" placeholder="States of USA">
-        </div>
 
         <script type="text/javascript" src="jquery-2.1.1.min.js"></script>
         <script type="text/javascript" src="cordova.js"></script>
@@ -83,8 +44,42 @@
         <script type="text/javascript" src="js/fb.js"></script>
 
 
+        <script src="bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
+        <link href="bootstrap-3.2.0-dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="bootstrap-3.2.0-dist/css/bootstrap-theme.min.css" rel="stylesheet">
 
-        <script>
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="app" style="visibility: hidden">
+            <h1>Apache Cordova</h1>
+            <div id="deviceready" class="blink">
+                <p class="event listening">Connecting to Device</p>
+                <p class="event received">Device is Ready</p>
+            </div>
+        </div>
+
+            <div class="the-basics" class="">
+                <label>Alpha matter</label>
+                <input id="matter_alpha" class="typeahead" type="text" value="" name="name_alpha" placeholder="Name">
+            </div>
+            <div class="the-basics">
+                <label>Beta matter</label>
+                <input id="matter_beta" class="typeahead" type="text" value="" name="name_beta" placeholder="Name">
+            </div>
+            <div>
+                <label>Because</label>
+                <input id="reason" type="text" placeholder="they both like taking selfies ;)">
+            </div>
+            <!--<input  id="id_alpha" type="text" value="" name="id_alpha">-->
+            <!--<input  id="id_beta" type="text" value="" name="id_beta">-->
+
+        <button id="gravity_button" onclick="applyGravity()">apply gravity</button>
+
+<script>
+    var names=[];
+    var nameToId = {};
+
 
             var substringMatcher = function(strs) {
                 return function findMatches(q, cb) {
@@ -121,40 +116,20 @@
                 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'Utah', 'Vermont',
                 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming'
             ];
-
-
-
-
-
-
-
-
-//            $('#the-basics .typeahead').change(function(){
-//                console.log($('#the-basics .typeahead'));
-//            })
-
-
         </script>
-
 
 
         <script type="text/javascript">
             app.initialize();
-//            OAuth.initialize('42txN58fSWxSKMkeNLPbyjKWm0A');
-//            alert("ok im here");
-//              OAuth.popup('facebook').done(function(result) {
-//                                           alert(result);
-//                                           // do some stuff with result
-//                                           });
-    
         </script>
 
         <script>
             function loadingInfo(token) {
 
-                var names=[];
-                var nameToId = {};
 
+
+
+                //******** get info about me
                 $.get("https://graph.facebook.com/me", {
                             access_token: token
                         }
@@ -164,7 +139,7 @@
                             $("#my_name").append(data.first_name, ' ', data.last_name);
                         });
 
-
+                //******* get info about friends, then rewrite name suggest list
                 $.get("https://graph.facebook.com/me/friends",
 
                         {
@@ -185,7 +160,7 @@
 
                             console.log(names);
                             console.log(nameToId);
-                            $('#the-basics .typeahead').typeahead({
+                            $('.the-basics .typeahead').typeahead({
                                         hint: true,
                                         highlight: true,
                                         minLength: 1
@@ -195,10 +170,18 @@
                                         displayKey: 'value',
                                         source: substringMatcher(names)
                                     });
-
-
-
                         }, "json");
+
+
+
+                //********Interface with rails server
+                $.post("http://localhost:3000/api/login", {
+                            token: token
+                        }
+                ).done(function (data) {
+                            console.log("Rails:",data);
+                        });
+
 
 
 
@@ -209,66 +192,78 @@
         </script>
 
 
-        <script type="text/javascript">
-            $(document).on('deviceready', function () {
-
-            $('#gravity_one').change(function(){
+    <script type="text/javascript">
+        $(document).on('deviceready', function () {
+            $('#gravity_one').change(function () {
                 console.log($('#gravity_one').attr("name"));
             });
 //
 
-                OAuth.initialize('42txN58fSWxSKMkeNLPbyjKWm0A')
-                OAuth.popup('facebook', {
-                    cache: true
-                })
-                        .done(function (result) {
-                            //should check token here
-                            console.log(result);
-                            isFbTokenValid(result.access_token, function (validity) {
-                                console.log("token validity:", validity);
-                                if (validity == false) {
-                                    OAuth.popup('facebook', {
-                                        cache: false
-                                    })
-                                            .done(function (result) {
-                                                //should check token here
-                                                console.log(result);
-                                                isFbTokenValid(result.access_token, function (validity) {
-                                                    console.log("token validity:", validity);
-                                                    if (validity == false) {
-                                                        alert("what can i say");
-                                                    }
-                                                    else {
-                                                        loadingInfo(result.access_token);
-                                                    }
-                                                });
-                                            })
-                                }
-                                else {
-                                    loadingInfo(result.access_token);
-                                }
-                            });
-
-
-                        })
-                        .fail(function (err) {
-                            console.error(err);
-                            //handle error with err
+            OAuth.initialize('42txN58fSWxSKMkeNLPbyjKWm0A')
+            OAuth.popup('facebook', {
+                cache: true
+            })
+                    .done(function (result) {
+                        //should check token here
+                        console.log(result);
+                        isFbTokenValid(result.access_token, function (validity) {
+                            console.log("token validity:", validity);
+                            if (validity == false) {
+                                OAuth.popup('facebook', {
+                                    cache: false
+                                })
+                                        .done(function (result) {
+                                            //should check token here
+                                            console.log(result);
+                                            isFbTokenValid(result.access_token, function (validity) {
+                                                console.log("token validity:", validity);
+                                                if (validity == false) {
+                                                    alert("what can i say");
+                                                }
+                                                else {
+                                                    loadingInfo(result.access_token);
+                                                }
+                                            });
+                                        })
+                            }
+                            else {
+                                loadingInfo(result.access_token);
+                            }
                         });
 
 
-                $("#my_name").click(function () {
-                    alert("login");
-                });
-
-            });
-        </script>
-
+                    })
+                    .fail(function (err) {
+                        console.error(err);
+                        //handle error with err
+                    });
 
 
+//            $("#matter_alpha").on("change paste keyup keydown", function () {
+////                $("#id_alpha").val(nameToId[$("#matter_alpha").val()]);
+////                $("#id_alpha").val("haha");
+//                console.log("matter alpha;", $("#matter_alpha").val());
+//                $("#id_alpha").val(nameToId[$("#matter_alpha").val()]);
+//
+//                console.log(nameToId);
+////                $("id_alpha").
+////                console.log("change");
+////                console.log($("#id_alpha").val());
+//            });
 
-        <!--<a target="_self">plain</a>-->
-        <a href="#" onclick="window.location.reload(true);">plain</a>
-        <p id="my_name" style="position:center; margin-top: 50px">Login</p></br>
+//            $("#gravity_button").click(function(){
+//                var name_a = $("#matter_alpha").val();
+//                var name_b = $("#matter_beta").val();
+//
+//                console("while applying force:",name_a,name_b);
+//            });
+
+
+
+        });
+    </script>
+
+        <a href="#" onclick="window.location.reload(true);">Log In</a>
+        <p id="my_name" style="position:center; margin-top: 50px">My Name</p></br>
     </body>
 </html>

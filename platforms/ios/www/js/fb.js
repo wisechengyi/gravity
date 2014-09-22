@@ -32,3 +32,28 @@ function swapJsonKeyValues(input) {
     }
     return output;
 }
+
+function applyGravity(){
+
+    var name_a = $("#matter_alpha").val();
+    var name_b = $("#matter_beta").val();
+    var reason = $("#reason").val();
+
+    var id_alpha = nameToId[name_a];
+    var id_beta = nameToId[name_b];
+
+    console.log("while applying force:",name_a,name_b);
+
+
+    $.post("http://localhost:3000/api/match", {
+            id_alpha: id_alpha,
+            id_beta: id_beta,
+            reason: reason
+        }
+    ).done(function (data) {
+            console.log("Match:",data);
+        });
+
+
+
+}
